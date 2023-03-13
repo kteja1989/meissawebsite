@@ -122,12 +122,11 @@
                                             <li class="menu-item-has-children">
                                                 <a href="#">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li><a>Software Development</a> </li>
+                                                    <li><a>Application Development</a> </li>
                                                     <li><a>Web Development</a> </li>
                                                     <li><a>Analytic Solutions</a> </li>
-                                                    <li><a>Cloud and DevOps</a></li>
                                                     <li><a>Product Design</a> </li>
-                                                    <li><a>Data Center</a> </li>
+                                                    <li><a>Data Management</a> </li>
                                                 </ul>
                                             </li>
                                             <li>
@@ -171,8 +170,10 @@
                                 <h1 class="it-title">IT Consulting Services For Your Business</h1>
                                 <div class="description">
                                     <p class="desc">
-                                        We are providing technology solutions all over.
+                                        We provide technology solutions for all.</br>
+                                        Engage Meissa, Stay Peaceful.
                                     </p>
+
                                 </div>
                             </div>
                         </div>
@@ -180,7 +181,7 @@
                             <div class="rs-contact">
                                 <div class="contact-wrap">
                                     <div class="content-part mb-25">
-                                        <h2 class="title mb-15">Schedule Your Appointment</h2>
+                                        <h2 class="title mb-15">Let us get back to you.</h2>
                                         <p class="desc">We here to help you</p>
                                     </div>
                                     <div id="appointment-messages"></div>
@@ -234,10 +235,10 @@
                             <div class="sec-title mb-30">
                                 <div class="sub-text">About Us</div>
                                 <h2 class="title pb-20">
-                                    We Are Increasing Business With Technological advancements
+                                    We develop complex, analytical, end-to-end enterprise solutions.
                                 </h2>
                                 <div class="desc pr-90 md-pr-0">
-                                    Over the last couple of years working in IT services developing software applications based on the market requirements.
+                                    Working on development enterprise solutions for biotechnology oriented industries.
                                 </div>
                             </div>
                             <!-- Skillbar Section Start -->
@@ -254,7 +255,7 @@
                     <div class="sec-title2 text-center mb-45">
                         <span class="sub-text">Services</span>
                         <h2 class="title">
-                            We Are Offering All Kinds of IT Solutions Services
+                            Our IT Solutions Services
                         </h2>
                         <div class="heading-line"></div>
                     </div>
@@ -268,7 +269,7 @@
                                 </div>
                                 <div class="services-content">
                                     <div class="services-text">
-                                        <h3 class="services-title"><a href="software-development.html">Software Development</a></h3>
+                                        <h3 class="services-title"><a>Enterprise Solutions</a></h3>
                                     </div>
                                     <div class="services-desc">
                                         <p>
@@ -404,9 +405,9 @@
                                                 1.
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title"> Discovery</h3>
+                                                <h3 class="title"> Product Scope</h3>
                                             </div>
-                                            <p class="number-txt">  Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                            <p class="number-txt"> Listen to the overall aim of the prodcut and understand the needs, roles of people keeping the outcome in mind.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -419,7 +420,7 @@
                                             <div class="number-title">
                                                 <h3 class="title">Planning</h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                            <p class="number-txt"> Laying the right foundation, keeping future scalability in mind. Create elaborate Software Requirement Specification Documents.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -432,7 +433,7 @@
                                             <div class="number-title">
                                                 <h3 class="title">Execute</h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                            <p class="number-txt"> Select latest platforms technologies apt for the need. Scalability is the ultimate need.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -445,7 +446,7 @@
                                             <div class="number-title">
                                                 <h3 class="title">Deliver</h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                            <p class="number-txt"> Unit and stability testing for delivery.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -462,7 +463,7 @@
                     <div class="sec-title2 text-center mb-45 md-mb-30">
                         <span class="sub-text white-color">Products</span>
                         <h2 class="title white-color">
-                            We Are Offering All Kinds of IT Solutions Services
+                            Our current solutions are
                         </h2>
                     </div>
                     <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="true" data-md-device-dots="false">
@@ -519,6 +520,10 @@
                                 <h3 class="title">Meissa MARS</h3>
                                 <span class="category"><a href="/meissamars">Meissa Management Automated Research Systems</a></span>
                             </div>
+                            <div class="project-content">
+                                <h3 class="title">Meissa Enterprise</h3>
+                                <span class="category"><a href="/meissamars">Meissa Enterprise</a></span>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -531,7 +536,7 @@
                     <div class="sec-title2 text-center mb-45">
                         <span class="sub-text">Pricing</span>
                         <h2 class="title">
-                            Our Pricing Plan
+                            Our Pricing Plans Meet Budget and needs
                         </h2>
                         <div class="heading-line">
 

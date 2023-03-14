@@ -10079,8 +10079,8 @@ body .search-modal .close:hover {
     35. Footer Section CSS
 ------------------------------------*/
 .rs-footer {
-  background: url("/images/IMG20211227140449.jpg");
-  background-color: #F5F6F9;
+  background: url("/images/Slide1.jpg");
+  background-color: #f2f2f2;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -10095,7 +10095,7 @@ body .search-modal .close:hover {
   font-size: 22px;
   line-height: 40px;
   font-weight: 600;
-  color: #101010;
+  color: #000000;
   margin-bottom: 25px;
 }
 .rs-footer .footer-top .site-map li {
@@ -10103,10 +10103,10 @@ body .search-modal .close:hover {
 }
 .rs-footer .footer-top .site-map li a {
   font-size: 16px;
-  color: #454545;
+  color: #000000;
 }
 .rs-footer .footer-top .site-map li a:hover {
-  color: #106eea;
+  color: #000000;
 }
 .rs-footer .footer-top .footer-social li {
   display: inline;
@@ -10118,7 +10118,7 @@ body .search-modal .close:hover {
   height: 35px;
   line-height: 35px;
   border-radius: 50%;
-  color: #555;
+  color: #000000;
   text-align: center;
   font-size: 15px;
   transition: all .8s ease;
@@ -10128,7 +10128,7 @@ body .search-modal .close:hover {
   line-height: 35px;
 }
 .rs-footer .footer-top .footer-social li a:hover {
-  color: #ffffff;
+  color: #000000;
   background: #106eea;
 }
 .rs-footer .footer-top .footer-social li:last-child {
@@ -10139,13 +10139,13 @@ body .search-modal .close:hover {
   position: relative;
 }
 .rs-footer .footer-top .address-widget li .desc a {
-  color: #454545;
+  color: #000000;
 }
 .rs-footer .footer-top .address-widget li .desc a:hover {
-  color: #106eea;
+  color: #000000;
 }
 .rs-footer .footer-top .address-widget li i {
-  color: #106eea;
+  color: #000000;
   position: absolute;
   left: 0px;
 }
@@ -10165,18 +10165,18 @@ body .search-modal .close:hover {
   font-size: 13px;
   padding: 16px 60px 16px 20px;
   margin: 0;
-  color: #0a0a0a;
+  color: #000000;
   overflow: hidden;
   border-radius: 30px 0 0 30px;
-  background: #fff;
-  box-shadow: 0 0 25px #eeeeee;
+  background: #000000;
+  box-shadow: 0 0 25px #000000;
 }
 .rs-footer .footer-top p input[type="submit"] {
   position: absolute;
   top: 1px;
   right: 1px;
   bottom: 1px;
-  background-image: linear-gradient(90deg, #03228f 0%, #0e73e4 100%);
+  background-image: linear-gradient(90deg, #000000 0%, #000000 100%);
   border-radius: 50%;
   padding: 15px 28px 15px;
   font-family: "Flaticon";
@@ -10190,7 +10190,7 @@ body .search-modal .close:hover {
   bottom: 0;
   padding: 12px 20px;
   pointer-events: none;
-  color: #ffffff;
+  color: #000000;
 }
 .rs-footer .footer-top p ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
@@ -10224,10 +10224,10 @@ body .search-modal .close:hover {
   margin: 0;
 }
 .rs-footer .footer-bottom .copyright p a {
-  color: #454545;
+  color: #000000;
 }
 .rs-footer .footer-bottom .copyright p a:hover {
-  color: #106eea;
+  color: #000000;
 }
 .rs-footer .footer-bottom .copy-right-menu li {
   display: inline-block;
@@ -10235,17 +10235,17 @@ body .search-modal .close:hover {
   padding: 0px 19px 0 25px;
 }
 .rs-footer .footer-bottom .copy-right-menu li a {
-  color: #454545;
+  color: #000000;
 }
 .rs-footer .footer-bottom .copy-right-menu li a:hover {
-  color: #106eea;
+  color: #000000;
 }
 .rs-footer .footer-bottom .copy-right-menu li:before {
   display: block;
   content: "";
   position: absolute;
   font-size: 18px;
-  background: #106eea;
+  background: #000000;
   left: 0;
   top: 50%;
   width: 6px;
@@ -10257,46 +10257,46 @@ body .search-modal .close:hover {
   display: none;
 }
 .rs-footer.style1 .footer-top .widget-title {
-  color: #102b3e;
+  color: #000000;
 }
 .rs-footer.style1 .footer-top .site-map li a:hover {
-  color: #f2541b;
+  color: #000000;
 }
 .rs-footer.style1 .footer-top .footer-social li a:hover {
-  background: #f2541b;
+  background: #000000;
 }
 .rs-footer.style1 .footer-top .address-widget li .desc a:hover {
-  color: #f2541b;
+  color: #000000;
 }
 .rs-footer.style1 .footer-top .address-widget li i {
-  color: #f2541b;
+  color: #000000;
 }
 .rs-footer.style1 .footer-top p input[type="submit"] {
   background-image: linear-gradient(180deg, #dd4c23 19%, #f27c1e 100%);
 }
 .rs-footer.style1 .footer-bottom .copyright p a:hover {
-  color: #f2541b;
+  color: #000000;
 }
 .rs-footer.style1 .footer-bottom .copy-right-menu li a:hover {
-  color: #f2541b;
+  color: #000000;
 }
 .rs-footer.style1 .footer-bottom .copy-right-menu li:before {
-  background: #f2541b;
+  background: #000000;
 }
 .rs-footer.style1.home14-footer-style .footer-bottom .copyright p a:hover,
 .rs-footer.style1.home14-footer-style .footer-top .address-widget li .desc a:hover,
 .rs-footer.style1.home14-footer-style .footer-top .address-widget li i,
 .rs-footer.style1.home14-footer-style .footer-top .site-map li a:hover {
-  color: #ff7045;
+  color: #000000;
 }
 .rs-footer.style1.home14-footer-style .footer-top p input[type="submit"],
 .rs-footer.style1.home14-footer-style .footer-bottom .copy-right-menu li:before,
 .rs-footer.style1.home14-footer-style .footer-top .footer-social li a:hover {
-  background: #ff7045;
+  background: #000000;
 }
 .rs-footer.style2 {
   background: url("/images/bg/footer-bg2.jpg");
-  background-color: #F5F6F9;
+  background-color: #000000;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -10308,13 +10308,13 @@ body .search-modal .close:hover {
   height: 40px;
 }
 .rs-footer.style2 .footer-top .widget-title {
-  color: #ffffff;
+  color: #000000;
 }
 .rs-footer.style2 .footer-top .site-map li a {
-  color: #ffffff;
+  color: #000000;
 }
 .rs-footer.style2 .footer-top .site-map li a:hover {
-  color: #03228f;
+  color: #000000;
 }
 .rs-footer.style2 .footer-top .footer-social li {
   display: inline;
@@ -10344,13 +10344,13 @@ body .search-modal .close:hover {
   position: relative;
 }
 .rs-footer.style2 .footer-top .address-widget li .desc {
-  color: #ffffff;
+  color: #000000;
 }
 .rs-footer.style2 .footer-top .address-widget li .desc a {
-  color: #ffffff;
+  color: #000000;
 }
 .rs-footer.style2 .footer-top .address-widget li .desc a:hover {
-  color: #03228f;
+  color: #000000;
 }
 .rs-footer.style2 .footer-top .widget-desc {
   margin: 0;
@@ -10364,7 +10364,7 @@ body .search-modal .close:hover {
   border-top: 1px solid;
 }
 .rs-footer.style2 .footer-bottom .copyright p {
-  color: #ffffff;
+  color: #000000;
 }
 .rs-footer.style2 .footer-bottom .copyright p a {
   color: #ffffff;
@@ -10394,26 +10394,26 @@ body .search-modal .close:hover {
   border-top: unset;
 }
 .rs-footer.style2.modify1 .footer-bottom .copyright p {
-  color: #ffffff;
+  color: #000000;
 }
 .rs-footer.style2.modify1 .footer-bottom .copyright p a {
-  color: #ffffff;
+  color: #000000;
 }
 .rs-footer.style2.modify1 .footer-bottom .copyright p a:hover {
-  color: #1273EB;
+  color: #000000;
 }
 .rs-footer.style2.modify1 .footer-bottom .copy-right-menu li a {
-  color: #ffffff;
+  color: #000000;
 }
 .rs-footer.style2.modify1 .footer-bottom .copy-right-menu li a:hover {
-  color: #1273EB;
+  color: #000000;
 }
 .rs-footer.style3 {
-  background: #F5F6F9;
+  background: #000000;
   background-size: cover;
 }
 .rs-footer.style3 .footer-top .widget-title {
-  color: #102b3e;
+  color: #000000;
 }
 .rs-footer.style3 .footer-top .site-map li a:hover {
   color: #1273EB;
@@ -10422,25 +10422,25 @@ body .search-modal .close:hover {
   background: #787cf2;
 }
 .rs-footer.style3 .footer-top .address-widget li .desc a:hover {
-  color: #1273EB;
+  color: #000000;
 }
 .rs-footer.style3 .footer-top .address-widget li i {
-  color: #1273EB;
+  color: #000000;
 }
 .rs-footer.style3 .footer-top p input[type="submit"] {
-  background: #787cf2;
+  background: #000000;
 }
 .rs-footer.style3 .footer-top p input[type="submit"]:hover {
   opacity: .9;
 }
 .rs-footer.style3 .footer-bottom .copyright p a:hover {
-  color: #1273EB;
+  color: #000000;
 }
 .rs-footer.style3 .footer-bottom .copy-right-menu li a:hover {
-  color: #1273EB;
+  color: #000000;
 }
 .rs-footer.style3 .footer-bottom .copy-right-menu li:before {
-  background: #787cf2;
+  background: #000000;
 }
 .rs-footer.style3.onepage-style4 {
   background: url("/images/bg/footer-bg.png");

@@ -170,14 +170,14 @@
                     <div class="row">
                         <div class="col-lg-8 md-mb-50">
                             <div class="services-img">
-                                <img src="{{ asset('images/meissaarm2.png') }}" alt="">
+                                <img src="{{ asset('images/meissaenterprise1.png') }}" alt="">
                             </div>
 
                             <h2 class="mt-34">IAEC Project Facility and Breeding Management</h2>
                             <p>Complete automation of recruitment from posting the advertisement to slection including screening, processing and comprehensive closure of the advertisement.</p>
                             <p>Leverage agile frameworks to provide a robust synopsis for high level overviews.</p>
                             <div class="services-img">
-                                <img src="{{ asset('images/meissaarm.png') }}" alt="">
+                                <img src="{{ asset('images/meissaenterprise2.png') }}" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 pl-32 md-pl-15">

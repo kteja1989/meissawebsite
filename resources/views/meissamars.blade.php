@@ -111,60 +111,7 @@
                                     <nav class="rs-menu">
                                         <ul class="nav-menu">
                                             <li class="rs-mega-menu menu-item-has-children current-menu-item"> <a href="#">Home</a>
-                                                <ul class="mega-menu">
-                                                    <li class="mega-menu-container">
-                                                        <div class="mega-menu-innner">
-                                                            <div class="single-megamenu">
-                                                                <ul class="sub-menu">
-                                                                    <li class="menu-title">Home Multipage</li>
-                                                                    <li class="active"><a href="index.html">Main Demo</a></li>
-                                                                    <li><a href="index2.html">Digital Agency 01</a></li>
-                                                                    <li><a href="index3.html">IT Solution 01</a></li>
-                                                                    <li><a href="index4.html">Digital Agency 02</a></li>
-                                                                    <li><a href="index5.html">Software Solution</a></li>
-                                                                    <li><a href="index6.html">Data Analysis</a></li>
-                                                                    <li class="last-item"><a href="index7.html">IT Solution 02</a></li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="single-megamenu">
-                                                                <ul class="sub-menu">
-                                                                    <li class="menu-title">Home Multipage</li>
-                                                                    <li><a href="index8.html">Gadgets Repairs</a></li>
-                                                                    <li><a href="index9.html">Application Testing</a></li>
-                                                                    <li><a href="index10.html">IT Solution 03</a></li>
-                                                                    <li><a href="index11.html">Digital Agency Dark</a></li>
-                                                                    <li><a href="index12.html">Web Design Agency</a></li>
-                                                                    <li><a href="index13.html">Branding Agency</a></li>
-                                                                    <li class="last-item"><a href="index14.html">Technology Agency</a></li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="single-megamenu">
-                                                                <ul class="sub-menu">
-                                                                    <li class="menu-title">Home Onepage</li>
-                                                                    <li><a href="onepage1.html">Main Demo</a></li>
-                                                                    <li><a href="onepage2.html">Digital Agency 01</a></li>
-                                                                    <li><a href="onepage3.html">IT Solution 01</a></li>
-                                                                    <li><a href="onepage4.html">Digital Agency 02</a></li>
-                                                                    <li><a href="onepage5.html">Software Solution</a></li>
-                                                                    <li><a href="onepage6.html">Data Analysis</a></li>
-                                                                    <li class="last-item"><a href="onepage7.html">IT Solution 02</a></li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="single-megamenu">
-                                                                <ul class="sub-menu">
-                                                                    <li class="menu-title">Home Onepage</li>
-                                                                    <li><a href="onepage8.html">Gadgets Repairs</a></li>
-                                                                    <li><a href="onepage9.html">Application Testing</a></li>
-                                                                    <li><a href="onepage10.html">IT Solution 03</a></li>
-                                                                    <li><a href="onepage11.html">Digital Agency Dark</a></li>
-                                                                    <li><a href="onepage12.html">Web Design Agency</a></li>
-                                                                    <li><a href="onepage13.html">Branding Agency</a></li>
-                                                                    <li class="last-item"><a href="onepage14.html">Technology Agency</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                </ul> <!-- //.mega-menu -->
+                                                 <!-- //.mega-menu -->
                                             </li>
                                             <li>
                                                 <a href="about.html">About</a>
@@ -172,12 +119,11 @@
                                             <li class="menu-item-has-children">
                                                 <a href="#">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="software-development.html">Software Development</a> </li>
-                                                    <li><a href="web-development.html">Web Development</a> </li>
-                                                    <li><a href="analytic-solutions.html">Analytic Solutions</a> </li>
-                                                    <li><a href="cloud-and-devops.html">Cloud and DevOps</a></li>
-                                                    <li><a href="product-design.html">Product Design</a> </li>
-                                                    <li><a href="data-center.html">Data Center</a> </li>
+                                                    <li><a>Software Development</a> </li>
+                                                    <li><a>Web Development</a> </li>
+                                                    <li><a>Analytic Solutions</a> </li>
+                                                    <li><a>Product Design</a> </li>
+                                                    <li><a>Data Center</a> </li>
                                                 </ul>
                                             </li>
                                             <li>
@@ -286,7 +232,6 @@
                                 <li>Software Development</a></li>
                                 <li>Web Development</a></li>
                                 <li>Analytic Solutions</a></li>
-                                <!--<li>Cloud and DevOps</a></li>-->
                                 <li>Product Design</a></li>
                             </ul>
                         </div>

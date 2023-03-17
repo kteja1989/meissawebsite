@@ -520,9 +520,14 @@
                                 <h3 class="title">Meissa MARS</h3>
                                 <span class="category"><a href="/meissamars">Meissa Management Automated Research Systems</a></span>
                             </div>
+                        </div>
+                        <div class="project-item">
+                            <div class="project-img">
+                                <a href="case-studies-single.html"><img src="{{ asset('images/project/main-home/Screenshot (41).png') }}" alt="images"></a>
+                            </div>
                             <div class="project-content">
                                 <h3 class="title">Meissa Enterprise</h3>
-                                <span class="category"><a href="/meissamars">Meissa Enterprise</a></span>
+                                <span class="category"><a href="/meissaenterprise">Meissa IAEC Project Facility and Breeding Management</a></span>
                             </div>
                         </div>
                     </div>
@@ -666,7 +671,6 @@
                                 <li>Software Development</a></li>
                                 <li>Web Development</a></li>
                                 <li>Analytic Solutions</a></li>
-                                <!--<li>Cloud and DevOps</a></li>-->
                                 <li>Product Design</a></li>
                             </ul>
                         </div>

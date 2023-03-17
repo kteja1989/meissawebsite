@@ -159,7 +159,7 @@
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs img2">
                 <div class="breadcrumbs-inner text-center">
-                    <h1 class="page-title">Meissa Multi-species Breeding</h1>
+                    <h1 class="page-title">Meissa Enterprise</h1>
                 </div>
             </div>
             <!-- Breadcrumbs End -->
@@ -170,14 +170,14 @@
                     <div class="row">
                         <div class="col-lg-8 md-mb-50">
                             <div class="services-img">
-                                <img src="{{ asset('images/meissabreeding2.png') }}" alt="">
+                                <img src="{{ asset('images/meissaarm2.png') }}" alt="">
                             </div>
 
-                            <h2 class="mt-34">Multi-species Breeding</h2>
-                            <p>European languages are members of the same family. The languages only differ in their grammar, their pronu nciation and their most common words. pronunciation and more common words. If several languages coalesce, the grammar of the resulting. Languages realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar articles, pronunciation and more common words  the grammar of the resulting.</p>
-                            <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. If several languages coalesce, the grammar of the resulting realizes.</p>
+                            <h2 class="mt-34">IAEC Project Facility and Breeding Management</h2>
+                            <p>Complete automation of recruitment from posting the advertisement to slection including screening, processing and comprehensive closure of the advertisement.</p>
+                            <p>Leverage agile frameworks to provide a robust synopsis for high level overviews.</p>
                             <div class="services-img">
-                                <img src="{{ asset('images/meissabreeding3.png') }}" alt="">
+                                <img src="{{ asset('images/meissaarm.png') }}" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 pl-32 md-pl-15">
@@ -270,11 +270,11 @@
                     <div class="row y-middle">
                         <div class="col-lg-6 text-right md-mb-10 order-last">
                             <ul class="copy-right-menu">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Shop</a></li>
-                                <li><a href="#">FAQs</a></li>
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="about.html">About</a></li>
+                                <li><a href="blog.html">Blog</a></li>
+                                <li><a href="shop.html">Shop</a></li>
+                                <li><a href="faq.html">FAQs</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">

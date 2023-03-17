@@ -40,3 +40,7 @@ Route::get('/meissafacility', function () {
 Route::get('/meissamars', function () {
     return view('meissamars');
 });
+
+Route::get('/meissaenterprise', function () {
+    return view('meissaenterprise');
+});

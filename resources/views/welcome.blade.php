@@ -32,7 +32,7 @@
         <!-- spacing css -->
         <link rel="stylesheet" type="text/css" href="{{ asset('/css/rs-spacing.css') }}">
         <!-- style css -->
-        <link rel="stylesheet" type="text/css" href="{{ asset('/css/style.css') }}"> <!-- This stylesheet dynamically changed from style.less -->
+        <link rel="stylesheet" type="text/css" href="{{ asset('./css/style.css') }}"> <!-- This stylesheet dynamically changed from style.less -->
         <!-- responsive css -->
         <link rel="stylesheet" type="text/css" href="{{ asset('/css/responsive.css') }}">
         <!--[if lt IE 9]>

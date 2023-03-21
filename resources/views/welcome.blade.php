@@ -32,7 +32,7 @@
         <!-- spacing css -->
         <link rel="stylesheet" type="text/css" href="{{ asset('/css/rs-spacing.css') }}">
         <!-- style css -->
-        <link rel="stylesheet" type="text/css" href="{{ asset('./css/style.css') }}"> <!-- This stylesheet dynamically changed from style.less -->
+        <link rel="stylesheet" type="text/css" href="{{ asset('/css/style.css') }}"> <!-- This stylesheet dynamically changed from style.less -->
         <!-- responsive css -->
         <link rel="stylesheet" type="text/css" href="{{ asset('/css/responsive.css') }}">
         <!--[if lt IE 9]>
@@ -390,9 +390,6 @@
                                         Our Working Process -  How We Work For Our Customers
                                     </h2>
                                 </div>
-                                <!--<div class="btn-part mt-40">
-                                    <a class="readon learn-more contact-us" href="contact.html">Contact Us</a>
-                                </div>-->
                             </div>
                         </div>
                         <div class="col-lg-8 pl-30 md-pl-15">
@@ -460,8 +457,8 @@
             <div class="rs-project bg5 style1 pt-110 md-pt-80">
                 <div class="container">
                     <div class="sec-title2 text-center mb-45 md-mb-30">
-                        <span class="sub-text white-color">Products</span>
-                        <h2 class="title white-color">
+                        <span class="sub-text black-color">Products</span>
+                        <h2 class="title black-color">
                             Our current solutions are
                         </h2>
                     </div>
@@ -540,7 +537,7 @@
                     <div class="sec-title2 text-center mb-45">
                         <span class="sub-text">Pricing</span>
                         <h2 class="title">
-                            Our Pricing Plans Meet Budget and needs
+                            Our Pricing Plans Meet Needs and Budget
                         </h2>
                         <div class="heading-line">
 
@@ -645,7 +642,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-12 col-sm-12 footer-widget">
                             <div class="footer-logo mb-30">
-                                <a href="index.html"><img src="{{ asset('images/Slide1-1bgno.png') }}" alt=""></a>
+                                <a href="#"><img src="{{ asset('images/Slide1-1bgno.png') }}" alt=""></a>
                             </div>
                             <div class="textwidget pb-30"><p>Get matched with your requirements and discuss for finailization</p>
                             </div>
@@ -700,15 +697,6 @@
                                 </li>
                             </ul>
                         </div>
-                        <!--<div class="col-lg-3 col-md-12 col-sm-12">
-                            <h3 class="widget-title">Newsletter</h3>
-                            <p class="widget-desc">We denounce with righteous and in and dislike men who are so beguiled and demo realized.</p>
-                            <p>
-                                <input type="email" name="EMAIL" placeholder="Your email address" required="">
-                                <em class="paper-plane"><input type="submit" value="Sign up"></em>
-                                <i class="flaticon-send"></i>
-                            </p>
-                        </div>-->
                     </div>
                 </div>
             </div>
@@ -717,11 +705,11 @@
                     <div class="row y-middle">
                         <div class="col-lg-6 text-right md-mb-10 order-last">
                             <ul class="copy-right-menu">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="shop.html">Shop</a></li>
-                                <li><a href="faq.html">FAQs</a></li>
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">About</a></li>
+                                <li><a href="#">Blog</a></li>
+                                <li><a href="#">Shop</a></li>
+                                <li><a href="#">FAQs</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">

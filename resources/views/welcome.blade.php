@@ -173,7 +173,6 @@
                                         We provide technology solutions for all.</br>
                                         Engage Meissa, Stay Peaceful.
                                     </p>
-
                                 </div>
                             </div>
                         </div>

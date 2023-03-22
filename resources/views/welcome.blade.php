@@ -170,7 +170,7 @@
                                 <h1 class="it-title">IT Consulting Services For Your Business</h1>
                                 <div class="description">
                                     <p class="desc">
-                                        We provide technology solutions for all.</br>
+                                        We provide affordable technology solutions for all.</br>
                                         Engage Meissa, Stay Peaceful.
                                     </p>
                                 </div>
@@ -237,7 +237,7 @@
                                     We develop complex, analytical, end-to-end enterprise solutions.
                                 </h2>
                                 <div class="desc pr-90 md-pr-0">
-                                    Working on development enterprise solutions for biotechnology oriented industries.
+                                    Working on development of enterprise solutions for biotechnology and other industries.
                                 </div>
                             </div>
                             <!-- Skillbar Section Start -->
@@ -254,7 +254,7 @@
                     <div class="sec-title2 text-center mb-45">
                         <span class="sub-text">Services</span>
                         <h2 class="title">
-                            Our IT Solutions Services
+                            Our IT Solutions
                         </h2>
                         <div class="heading-line"></div>
                     </div>
@@ -272,7 +272,7 @@
                                     </div>
                                     <div class="services-desc">
                                         <p>
-                                            At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                            Many laboratory and  biotechnology experimental systems.
                                         </p>
                                     </div>
                                 </div>
@@ -287,11 +287,11 @@
                                 </div>
                                 <div class="services-content">
                                     <div class="services-text">
-                                        <h3 class="services-title"><a href="web-development.html">Web Development</a></h3>
+                                        <h3 class="services-title"><a href="web-development.html">Web Application Development</a></h3>
                                     </div>
                                     <div class="services-desc">
                                         <p>
-                                            At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                            Content management systems for specialized applications.
                                         </p>
                                     </div>
                                 </div>
@@ -310,7 +310,7 @@
                                     </div>
                                     <div class="services-desc">
                                         <p>
-                                            At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                            AI and ML based solutions for custom problems.
                                         </p>
                                     </div>
                                 </div>
@@ -329,7 +329,7 @@
                                     </div>
                                     <div class="services-desc">
                                         <p>
-                                            At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                            Starting soon.
                                         </p>
                                     </div>
                                 </div>
@@ -348,7 +348,7 @@
                                     </div>
                                     <div class="services-desc">
                                         <p>
-                                            At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                            We create software requirement specifications for complex solutions.
                                         </p>
                                     </div>
                                 </div>
@@ -367,7 +367,7 @@
                                     </div>
                                     <div class="services-desc">
                                         <p>
-                                            At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                            Custom Data design services.</br>
                                         </p>
                                     </div>
                                 </div>
@@ -468,8 +468,8 @@
                                 <a href="case-studies-single.html"><img src="{{ asset('images/project/main-home/Screenshot (41).png') }}" alt="images"></a>
                             </div>
                             <div class="project-content">
-                                <h3 class="title">Meissa ARM</h3>
-                                <span class="category"><a href="/meissaarm">Meissa Accelerated Recruitment Management</a></span>
+                                <h3 class="title">Meissa - ARM</h3>
+                                <span class="category"><a href="/meissaarm">Meissa - Automated Recruitment Management</a></span>
                             </div>
                         </div>
                         <div class="project-item">
@@ -477,17 +477,8 @@
                                 <a href="case-studies-style1"><img src="{{ asset('images/project/main-home/Screenshot (41).png') }}" alt="images"></a>
                             </div>
                             <div class="project-content">
-                                <h3 class="title">Meissa Breeding and Facility</h3>
-                                <span class="category"><a href="/meissabreedfacility">Meissa Multi-species Breeding and Facility Management</a></span>
-                            </div>
-                        </div>
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="case-studies-style1"><img src="{{ asset('images/project/main-home/Screenshot (41).png') }}" alt="images"></a>
-                            </div>
-                            <div class="project-content">
-                                <h3 class="title">Meissa Breeding</h3>
-                                <span class="category"><a href="/meissabreeding">Meissa Multi-species Breeding</a></span>
+                                <h3 class="title">Meissa - Colony</h3>
+                                <span class="category"><a href="/meissabreeding">Meissa - Colony Management</a></span>
                             </div>
                         </div>
                         <div class="project-item">
@@ -495,16 +486,7 @@
                                 <a href="case-studies-single.html"><img src="{{ asset('images/project/main-home/Screenshot (41).png') }}" alt="images"></a>
                             </div>
                             <div class="project-content">
-                                <h3 class="title">Meissa CLEAR</h3>
-                                <span class="category"><a href="/meissaclear">Meissa Chronological Laboratory Experimental Automated Record</a></span>
-                            </div>
-                        </div>
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="case-studies-single.html"><img src="{{ asset('images/project/main-home/Screenshot (41).png') }}" alt="images"></a>
-                            </div>
-                            <div class="project-content">
-                                <h3 class="title">Meissa Facility</h3>
+                                <h3 class="title">Meissa - Facility</h3>
                                 <span class="category"><a href="/meissafacility">Meissa Facility Management</a></span>
                             </div>
                         </div>
@@ -513,8 +495,8 @@
                                 <a href="case-studies-single.html"><img src="{{ asset('images/project/main-home/Screenshot (41).png') }}" alt="images"></a>
                             </div>
                             <div class="project-content">
-                                <h3 class="title">Meissa MARS</h3>
-                                <span class="category"><a href="/meissamars">Meissa Management Automated Research Systems</a></span>
+                                <h3 class="title">Meissa - CLEAR</h3>
+                                <span class="category"><a href="/meissaclear">Meissa - Chronological Laboratory Experimental Automated Record</a></span>
                             </div>
                         </div>
                         <div class="project-item">
@@ -522,8 +504,8 @@
                                 <a href="case-studies-single.html"><img src="{{ asset('images/project/main-home/Screenshot (41).png') }}" alt="images"></a>
                             </div>
                             <div class="project-content">
-                                <h3 class="title">Meissa Enterprise</h3>
-                                <span class="category"><a href="/meissaenterprise">Meissa IAEC Project Facility and Breeding Management</a></span>
+                                <h3 class="title">Meissa <a href="#" class="badge badge-primary"></a> MARS</h3>
+                                <span class="category"><a href="/meissamars">Meissa Management Automated Research Systems</a></span>
                             </div>
                         </div>
                     </div>

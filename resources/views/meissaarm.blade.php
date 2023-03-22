@@ -173,23 +173,25 @@
                                 <img src="{{ asset('images/meissaarm2.png') }}" alt="">
                             </div>
 
-                            <h2 class="mt-34">Accelerated Recruitment Management</h2>
-                            <p>Complete automation of recruitment from posting the advertisement to slection including screening, processing and comprehensive closure of the advertisement.</p>
-                            <p>Leverage agile frameworks to provide a robust synopsis for high level overviews.</p>
+                            <h2 class="mt-34">Fully Automated Recruitment Management</h2>
+                            <p>Fully automted recruitmemnt management consists of posting the advertisement to collection of online application, access based online-screening, dispatch of call letters through online to conducting interviews to closire of the advertisement.</p>
+                            <p>Previously applied condidates get highlighted for any post.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaarm.png') }}" alt="">
                             </div>
+                            <p>1. Intituative Dashbpards.</p>
+                            <p>2. Role based access.</p>
+                            <p>3. Online Zoom based interviews.</p>
                         </div>
                         <div class="col-lg-4 pl-32 md-pl-15">
                             <div class="ps-informations">
-                            <h3 class="info-title">Project Info</h3>
+                            <h3 class="info-title">Product Info</h3>
                             <ul>
                                 <li><span>Category:</span>IT Technology</li>
                                 <li><span>Technologies Used:</span>Laravel, Php, MySQL</li>
-                                <li><span>Completed Date:  </span>2018</li>
-                                <li><span>Project Value:  </span>50k</li>
-                                <li><span>Mananer: </span>Skermset</li>
-                                <li><span>Designer: </span>Istiak</li>
+                                <li><span>Completed Date:  </span>2019</li>
+                                <li><span>Purchase: </span>Subbscription, license</li>
+                                <li><span>Price: </span>Contact Us</li>
                             </ul>
                             </div>
                         </div>

@@ -187,12 +187,11 @@
                             <div class="ps-informations">
                             <h3 class="info-title">Project Info</h3>
                             <ul>
-                                <li><span>Category:</span>IT Technology</li>
+                                <li><span>Category:</span>Bio-technology</li>
                                 <li><span>Technologies Used:</span>Laravel, Php, MySQL</li>
-                                <li><span>Completed Date:  </span>2018</li>
-                                <li><span>Project Value:  </span>50k</li>
-                                <li><span>Mananer: </span>Skermset</li>
-                                <li><span>Designer: </span>Istiak</li>
+                                <li><span>Completed Date:  </span>2019</li>
+                                <li><span>Purchase: </span>Subbscription, license</li>
+                                <li><span>Price: </span>Contact Us</li>
                             </ul>
                             </div>
                         </div>

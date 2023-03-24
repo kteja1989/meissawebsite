@@ -174,11 +174,12 @@
                             </div>
 
                             <h2 class="mt-34">Facility Management</h2>
-                            <p>European languages are members of the same family. The languages only differ in their grammar, their pronu nciation and their most common words. pronunciation and more common words. If several languages coalesce, the grammar of the resulting. Languages realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar articles, pronunciation and more common words  the grammar of the resulting.</p>
+                            <p>Easily understandable graphical user interface for both the facility manager and principle investigator/experimenter to retrive every minute detail of every cage in the facility.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissafacility.png') }}" alt="">
                             </div>
-                            <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. If several languages coalesce, the grammar of the resulting realizes.</p>
+                            </br>
+                            <p>Its location, assigned project, corresponding costs for which project or experimentation it is being used, type of strain. The facility manager can also update the comments for the cage which notifies the experimenter.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissafacility2.png') }}" alt="">
                             </div>

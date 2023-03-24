@@ -175,8 +175,8 @@
                             </div>
 
                             <h2 class="mt-34">Chronological Laboratory Experimental Automated Record</h2>
-                            <p>European languages are members of the same family. The languages only differ in their grammar, their pronu nciation and their most common words. pronunciation and more common words. If several languages coalesce, the grammar of the resulting. Languages realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar articles, pronunciation and more common words  the grammar of the resulting.</p>
-                            <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. If several languages coalesce, the grammar of the resulting realizes.</p>
+                            <p>Record every bit of your experiments right from beginning to end along with attachment of audio and video files, pictures.</p>
+                            <p>This makes the new experimenter to see what the earlyy experimenter has done, what was the results, and what are the next steps needs to be done.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaclear2.png') }}" alt="">
                             </div>
@@ -188,7 +188,7 @@
                                 <li><span>Category:</span>Bio-technology</li>
                                 <li><span>Technologies Used:</span>Laravel, Livewire, php, MySQL</li>
                                 <li><span>Completed Date:  </span>2022</li>
-                                <li><span>Purchase: </span>Subbscription, license</li>
+                                <li><span>Purchase: </span>Subscription, license</li>
                                 <li><span>Price: </span>Contact Us</li>
                             </ul>
                             </div>

@@ -174,8 +174,8 @@
                             </div>
 
                             <h2 class="mt-34">Multi-Species Breeding</h2>
-                            <p> pronunciation and more common words. If several languages coalesce, the grammar of the resulting. Languages realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar articles, pronunciation and more common words  the grammar of the resulting.</p>
-                            <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. If several languages coalesce, the grammar of the resulting realizes.</p>
+                            <p>Developed based on famous protocols of JAX Laboratories USA.</p>
+                            <p>Addition of any number of new mice, tracking of mating, litter management, mangement of schedules and creation of base terms.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissabreeding3.png') }}" alt="">
                             </div>

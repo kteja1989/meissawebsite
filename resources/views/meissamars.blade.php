@@ -170,26 +170,36 @@
                     <div class="row">
                         <div class="col-lg-8 md-mb-50">
                             <div class="services-img">
-                                <img src="{{ asset('images/project/single/1.jpg') }}" alt="">
+                                <img src="{{ asset('images/meissamarsdashboard.png') }}" alt="">
                             </div>
-
                             <h2 class="mt-34">Management of Automated Research Systems</h2>
-                            <p>European languages are members of the same family. The languages only differ in their grammar, their pronu nciation and their most common words. pronunciation and more common words. If several languages coalesce, the grammar of the resulting. Languages realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar articles, pronunciation and more common words  the grammar of the resulting.</p>
-                            <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. If several languages coalesce, the grammar of the resulting realizes.</p>
+                            <p>A highly intuitive, easy-to-use interface that manages the entire experimental and laboratory operations on IAEC Projects, Multi-Species Breeding, Experimentation, facility and experimental infrastructure maintenance tracking under a single interface. This is an enterprise version which combines all the modules of Meissa CLEAR, Meissa Colony, Meissa Facility. </p>
                             <div class="services-img">
-                                <img src="{{ asset('images/project/single/2.jpg') }}" alt="">
+                                <img src="{{ asset('images/meissamarsproject.png') }}" alt="">
                             </div>
+                            <p>Comprehensive recording of every aspect in projects including the tracking of number of issues.</p>
+                            <div class="services-img">
+                                <img src="{{ asset('images/meissamarsstrainstatus.png') }}" alt="">
+                            </div>
+                            <p>Set the strains from public to private and vice-versa.</p>
+                            <div class="services-img">
+                                <img src="{{ asset('images/meissamarssetperdiem.png') }}" alt="">
+                            </div>
+                            <p>Billing based on per diem.</p>
+                            <div class="services-img">
+                                <img src="{{ asset('images/meissaprojectscost.png') }}" alt="">
+                            </div>
+                            <p>Billing based on per cage in a project. This calculation is present in every project of every experimenter.</p>
                         </div>
                         <div class="col-lg-4 pl-32 md-pl-15">
                             <div class="ps-informations">
                             <h3 class="info-title">Project Info</h3>
                             <ul>
-                                <li><span>Category:</span>IT Technology</li>
-                                <li><span>Technologies Used:</span>Laravel, Php, MySQL</li>
-                                <li><span>Completed Date:  </span>2018</li>
-                                <li><span>Project Value:  </span>50k</li>
-                                <li><span>Mananer: </span>Skermset</li>
-                                <li><span>Designer: </span>Istiak</li>
+                                <li><span>Category:</span>Bio-technology</li>
+                                <li><span>Technologies Used:</span>Laravel, Livewire, php, MySQL</li>
+                                <li><span>Completed Date:  </span>2022</li>
+                                <li><span>Purchase: </span>Subscription, license</li>
+                                <li><span>Price: </span>Contact Us</li>
                             </ul>
                             </div>
                         </div>

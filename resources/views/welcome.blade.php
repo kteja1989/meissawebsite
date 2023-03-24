@@ -220,13 +220,13 @@
                         <div class="col-lg-5 col-md-12 md-mb-50">
                             <div class="rs-animation-shape">
                                 <div class="pattern">
-                                    <img src="{{ asset('images/about/main-home/about-part-1.png') }}" alt="">
+                                    <img src="{{ asset('images/meissawebsiteabout.png') }}" alt="">
                                 </div>
                                 <div class="middle">
-                                    <img class="dance" src="{{ asset('images/about/main-home/about-part-2.png') }}" alt="">
+                                    <img class="dance" src="{{ asset('images/meissawebsiteabout2.png') }}" alt="">
                                 </div>
                                 <div class="bottom-shape">
-                                    <img class="dance2" src="{{ asset('images/about/main-home/about-part-3.png') }}" alt="">
+                                    <img class="dance2" src="{{ asset('images/meissawebsiteabout2.png') }}" alt="">
                                 </div>
                             </div>
                         </div>
@@ -386,7 +386,7 @@
                             <div class="process-wrap bg3">
                                 <div class="sec-title mb-30">
                                     <div class="sub-text new">Working Process</div>
-                                    <h2 class="title white-color">
+                                    <h2 class="title black-color">
                                         Our Working Process -  How We Work For Our Customers
                                     </h2>
                                 </div>

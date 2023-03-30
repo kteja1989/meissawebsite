@@ -492,7 +492,7 @@
                         </div>
                         <div class="project-item">
                             <div class="project-img">
-                                <a href="case-studies-single.html"><img src="{{ asset('images/project/main-home/Screenshot (41).png') }}" alt="images"></a>
+                                <a href="case-studies-single.html"><img src="{{ asset('images/meissaclear1.png') }}" alt="images"></a>
                             </div>
                             <div class="project-content">
                                 <h3 class="title">Meissa - CLEAR</h3>

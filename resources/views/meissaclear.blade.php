@@ -170,15 +170,42 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 md-mb-50">
+                        <h2 class="mt-34">Chronological Laboratory Experimental Automated Record</h2>
+                            <h5>Dashboard</h5>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaclear1.png') }}" alt="">
                             </div>
-
-                            <h2 class="mt-34">Chronological Laboratory Experimental Automated Record</h2>
                             <p>Record every bit of your experiments right from beginning to end along with attachment of audio and video files, pictures.</p>
-                            <p>This makes the new experimenter to see what the earlyy experimenter has done, what was the results, and what are the next steps needs to be done.</p>
+                            </br>
+                            <h2 class="mt-34">Features</h2>
+                            <h5>Elab Notebook</h5>
+                            <p>This makes the new experimenter to see what the earlier experimenter has done, what was the results, and what are the next steps needs to be done.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaclear2.png') }}" alt="">
+                            </div>
+                            </br>
+                            <h5>Inventory</h5>
+                            <p>Comprehensive recording of inventory, that tells how much are the items left in his lab.</p>
+                            <div class="services-img">
+                                <img src="{{ asset('images/meissaclearinventory.png') }}" alt="">
+                            </div>
+                            </br>
+                            <h5>Logbook</h5>
+                            <p>Complete recording of logbook, that tells complete details about the instrument in the lab.</p>
+                            <div class="services-img">
+                                <img src="{{ asset('images/meissaclearlogbook.png') }}" alt="">
+                            </div>
+                            </br>
+                            <h5>Reagent Development</h5>
+                            <p>Complete recording of Reagents, how they are made, helps the experimenter to remake the same in future.</p>
+                            <div class="services-img">
+                                <img src="{{ asset('images/meissaclearreagent.png') }}" alt="">
+                            </div>
+                            </br>
+                            <h5>Sample Storage</h5>
+                            <p>Complete recording of Samples, its storage along with exact location.</p>
+                            <div class="services-img">
+                                <img src="{{ asset('images/meissaclearsample.png') }}" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 pl-32 md-pl-15">

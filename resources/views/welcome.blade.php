@@ -65,13 +65,13 @@
                                 </div>
                                 <div class="col-lg-10 text-right">
                                     <ul class="rs-contact-info">
-                                        <li class="contact-part">
+                                        <!--<li class="contact-part">
                                             <i class="flaticon-location"></i>
                                             <span class="contact-info">
                                                 <span>Address</span>
                                                 05 kandi BR. New York
                                             </span>
-                                        </li>
+                                        </li>-->
                                         <li class="contact-part">
                                             <i class="flaticon-email"></i>
                                             <span class="contact-info">
@@ -173,6 +173,7 @@
                                         We provide affordable technology solutions for all.</br>
                                         Engage Meissa, Stay Peaceful.
                                     </p>
+                                    <p class="desc">We give priority to privacy. We don't distribute your information. We don't call until we are called upon</p>
                                 </div>
                             </div>
                         </div>
@@ -272,7 +273,7 @@
                                     </div>
                                     <div class="services-desc">
                                         <p>
-                                            Many laboratory and  biotechnology experimental systems.
+                                            Biotechnology and Laboratory experimental systems.
                                         </p>
                                     </div>
                                 </div>
@@ -291,7 +292,7 @@
                                     </div>
                                     <div class="services-desc">
                                         <p>
-                                            Content management systems for specialized applications.
+                                            Custom Content management systems for all specialized needs and integrations.
                                         </p>
                                     </div>
                                 </div>
@@ -348,7 +349,7 @@
                                     </div>
                                     <div class="services-desc">
                                         <p>
-                                            We create software requirement specifications for complex solutions.
+                                            Software requirement specifications for complex solutions.
                                         </p>
                                     </div>
                                 </div>
@@ -367,7 +368,7 @@
                                     </div>
                                     <div class="services-desc">
                                         <p>
-                                            Custom Data design services.</br>
+                                            Custom data hosting services and managed hosting services.</br>
                                         </p>
                                     </div>
                                 </div>
@@ -429,7 +430,7 @@
                                             <div class="number-title">
                                                 <h3 class="title">Execute</h3>
                                             </div>
-                                            <p class="number-txt"> Select latest platforms technologies apt for the need. Scalability is the ultimate need.</p>
+                                            <p class="number-txt"> Select latest platforms technologies apt for the need. Scalability is the ultimate goal.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -442,7 +443,7 @@
                                             <div class="number-title">
                                                 <h3 class="title">Deliver</h3>
                                             </div>
-                                            <p class="number-txt"> Unit and stability testing for delivery.</p>
+                                            <p class="number-txt"> Unit and stability testing before and after delivery.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -543,10 +544,8 @@
                                 </div>
                                 <div class="pricing-table-body">
                                     <ul>
-                                        <li><i class="fa fa-check"></i><span>Powerful Admin Panel</span></li>
-                                        <li><i class="fa fa-check"></i><span>1 Native Android App</span></li>
-                                        <li><i class="fa fa-close"></i><span>Multi-Language Support</span></li>
-                                        <li><i class="fa fa-check"></i><span>Support via E-mail and Phone</span></li>
+                                        <li><i class="fa fa-check"></i><span>Powerful Dashboard</span></li>
+                                        <li><i class="fa fa-check"></i><span>Support via E-mail and online</span></li>
                                     </ul>
                                 </div>
                                 <!--<div class="btn-part">
@@ -571,9 +570,7 @@
                                 </div>
                                 <div class="pricing-table-body">
                                     <ul>
-                                        <li><i class="fa fa-check"></i><span>Powerful Admin Panel</span></li>
-                                        <li><i class="fa fa-check"></i><span>2 Native Android App</span></li>
-                                        <li><i class="fa fa-check"></i><span>Multi-Language Support</span></li>
+                                        <li><i class="fa fa-check"></i><span>Powerful Dashboard</span></li>
                                         <li><i class="fa fa-check"></i><span>Support via E-mail and Phone</span></li>
                                     </ul>
                                 </div>
@@ -599,10 +596,10 @@
                                 </div>
                                 <div class="pricing-table-body">
                                     <ul>
-                                        <li><i class="fa fa-check"></i><span>Powerful Admin Panel</span></li>
-                                        <li><i class="fa fa-check"></i><span>3 Native Android App</span></li>
-                                        <li><i class="fa fa-check"></i><span>Multi-Language Support</span></li>
+                                        <li><i class="fa fa-check"></i><span>Powerful Dashboard</span></li>
+                                        <li><i class="fa fa-check"></i><span>Small customizations</span></li>
                                         <li><i class="fa fa-check"></i><span>Support via E-mail and Phone</span></li>
+                                        <li><i class="fa fa-check"></i><span>Hosting</span></li>
                                     </ul>
                                 </div>
                                 <!--<div class="btn-part">

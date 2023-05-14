@@ -179,31 +179,31 @@
                             </br>
                             <h2 class="mt-34">Features</h2>
                             <h5>Elab Notebook</h5>
-                            <p>This makes the new experimenter to see what the earlier experimenter has done, what was the results, and what are the next steps needs to be done.</p>
+                            <p>Track every theme of research, experiments performed within it and record data, images, audio and video files etc., till the theme of investigation is closed.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaclear2.png') }}" alt="">
                             </div>
                             </br>
                             <h5>Inventory</h5>
-                            <p>Comprehensive recording of inventory, that tells how much are the items left in his lab.</p>
+                            <p>Comprehensive recording of searchable inventory, receipts and every reagent spent for the purpose, quantity and track replinishment status.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaclearinventory.png') }}" alt="">
                             </div>
                             </br>
                             <h5>Logbook</h5>
-                            <p>Complete recording of logbook, that tells complete details about the instrument in the lab.</p>
+                            <p>Complete recording of logbook, for every equipment inside the lab.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaclearlogbook.png') }}" alt="">
                             </div>
                             </br>
                             <h5>Reagent Development</h5>
-                            <p>Complete recording of Reagents, how they are made, helps the experimenter to remake the same in future.</p>
+                            <p>Complete record of reagent preparation, track the consumption and its usage in specific experiments. Uniquely PNR coded reagents.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaclearreagent.png') }}" alt="">
                             </div>
                             </br>
                             <h5>Sample Storage</h5>
-                            <p>Complete recording of Samples, its storage along with exact location.</p>
+                            <p>Complete online record of storage of samples, with exact location details.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaclearsample.png') }}" alt="">
                             </div>

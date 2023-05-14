@@ -159,7 +159,7 @@
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs img2">
                 <div class="breadcrumbs-inner text-center">
-                    <h1 class="page-title">Meissa Multi-species Breeding</h1>
+                    <h1 class="page-title">Meissa Multi-Species Breeding</h1>
                 </div>
             </div>
             <!-- Breadcrumbs End -->
@@ -174,8 +174,8 @@
                             </div>
 
                             <h2 class="mt-34">Multi-Species Breeding</h2>
-                            <p>Developed based on famous protocols of JAX Laboratories USA.</p>
-                            <p>Addition of any number of new mice, tracking of mating, litter management, mangement of schedules and creation of base terms.</p>
+                            <p>Developed based on most appreciated protocols of JAX Laboratories, USA.</p>
+                            <p>Tracking of mice, barcoding, tracking of mating, litter management, mangement of schedules, management of facility at individual cage level information and costing of cages per diem basis. Management of infrasture, inventory, System tracking SOPs.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissabreeding3.png') }}" alt="">
                             </div>

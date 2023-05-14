@@ -174,14 +174,15 @@
                             </div>
 
                             <h2 class="mt-34">Fully Automated Recruitment Management</h2>
-                            <p>Fully automted recruitmemnt management consists of posting the advertisement to collection of online application, access based online-screening, dispatch of call letters through online to conducting interviews to closire of the advertisement.</p>
+                            <p>Fully automted recruitmemnt management consists of posting the advertisement to collection of online application, access based online-screening, dispatch of call letters through online to conducting interviews to closure of the advertisement. Statistics of reapplicants who applied earlier. Acccurate tracking of applications</p>
                             <p>Previously applied condidates get highlighted for any post.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaarm.png') }}" alt="">
                             </div>
                             <p>1. Intituative Dashbpards.</p>
                             <p>2. Role based access.</p>
-                            <p>3. Online Zoom based interviews.</p>
+                            <p>3. Online Zoom based interviews (Upcoming).</p>
+                            <p>4. All in single login.</p>
                         </div>
                         <div class="col-lg-4 pl-32 md-pl-15">
                             <div class="ps-informations">

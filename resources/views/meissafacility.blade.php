@@ -174,12 +174,12 @@
                             </div>
 
                             <h2 class="mt-34">Facility Management</h2>
-                            <p>Easily understandable graphical user interface for both the facility manager and principle investigator/experimenter to retrive every minute detail of every cage in the facility.</p>
+                            <p>Easy to understand, intuitive graphical user interface for both the facility manager and experimenters to record and retrive every minute detail of every cage in the facility including costing.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissafacility.png') }}" alt="">
                             </div>
                             </br>
-                            <p>Its location, assigned project, corresponding costs for which project or experimentation it is being used, type of strain. The facility manager can also update the comments for the cage which notifies the experimenter.</p>
+                            <p>Its location, assigned project, corresponding costs for which project or experimentation it is being used, type of strain. The facility manager can also update the comments for the cage on daily basis which notifies the experimenter.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissafacility2.png') }}" alt="">
                             </div>

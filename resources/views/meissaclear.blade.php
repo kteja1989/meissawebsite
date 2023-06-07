@@ -52,107 +52,11 @@
                 <!--Header Start-->
                 <header id="rs-header" class="rs-header">
                     <!-- Topbar Area Start -->
-                    <div class="topbar-area">
-                        <div class="container">
-                            <div class="row rs-vertical-middle">
-                                <div class="col-lg-2">
-                                    <div class="logo-part">
-                                        <a href="index.html"><img src="{{ asset('images/Slide3.jpg') }}" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-10 text-right">
-                                    <ul class="rs-contact-info">
-                                        <li class="contact-part">
-                                            <i class="flaticon-location"></i>
-                                            <span class="contact-info">
-                                                <span>Address</span>
-                                                05 kandi BR. New York
-                                            </span>
-                                        </li>
-                                        <li class="contact-part">
-                                            <i class="flaticon-email"></i>
-                                            <span class="contact-info">
-                                                <!--<span>E-mail</span>-->
-                                                <a href="mailto:meissasoftwaresolutions@gmail.com"> Send Mail</a>
-                                            </span>
-                                        </li>
-                                        <li class="contact-part no-border">
-                                            <i class="flaticon-call"></i>
-                                            <span class="contact-info">
-                                                <span>Phone</span>
-                                                    +91-9881124454
-                                            </span>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    @include('topbar')
                     <!-- Topbar Area End -->
 
                     <!-- Menu Start -->
-                    <div class="menu-area menu-sticky">
-                        <div class="container">
-                            <div class="logo-area">
-                                <a href="index.html">
-                                    <img class="sticky-logo" src="{{ asset('images/Slide3.jpg') }}" alt="logo">
-                                </a>
-                            </div>
-                            <div class="rs-menu-area">
-                                <div class="main-menu">
-                                    <div class="mobile-menu">
-                                        <a href="index.html" class="mobile-logo">
-                                            <img src="{{ asset('images/Slide3.jpg') }}" alt="logo">
-                                        </a>
-                                        <a href="#" class="rs-menu-toggle rs-menu-toggle-close">
-                                            <i class="fa fa-bars"></i>
-                                        </a>
-                                    </div>
-                                    <nav class="rs-menu">
-                                        <ul class="nav-menu">
-                                            <li class="rs-mega-menu menu-item-has-children current-menu-item"> <a href="#">Home</a>
-                                                 <!-- //.mega-menu -->
-                                            </li>
-                                            <li>
-                                                <a href="about.html">About</a>
-                                            </li>
-                                            <li class="menu-item-has-children">
-                                                <a href="#">Services</a>
-                                                <ul class="sub-menu">
-                                                    <li><a>Software Development</a> </li>
-                                                    <li><a>Web Development</a> </li>
-                                                    <li><a>Analytic Solutions</a> </li>
-                                                    <li><a>Cloud and DevOps</a></li>
-                                                    <li><a>Product Design</a> </li>
-                                                    <li><a>Data Center</a> </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="contact.html">Contact</a>
-                                            </li>
-                                        </ul> <!-- //.nav-menu -->
-                                    </nav>
-                                </div> <!-- //.main-menu -->
-                            </div>
-                            <div class="expand-btn-inner search-icon hidden-sticky hidden-md">
-                                <ul>
-                                    <li class="sidebarmenu-search">
-                                        <a class="hidden-xs rs-search" data-bs-toggle="modal" data-bs-target="#searchModal" href="#">
-                                            <i class="flaticon-search"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                                <div class="toolbar-sl-share">
-                                    <ul class="social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    @include('menu')
                     <!-- Menu End -->
                 </header>
             <!--Full width header End-->
@@ -228,152 +132,20 @@
         <!-- Main content End -->
 
         <!-- Footer Start -->
-        <footer id="rs-footer" class="rs-footer">
-            <div class="footer-top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-12 col-sm-12 footer-widget">
-                            <div class="footer-logo mb-30">
-                                <a href="index.html"><img src="{{ asset('images/Slide1-1bgno.png') }}" alt=""></a>
-                            </div>
-                            <div class="textwidget pb-30"><p>Get matched with your requirements and discuss for finailization</p>
-                            </div>
-                            <ul class="footer-social md-mb-30">
-                                <li>
-                                    <a href="#" target="_blank"><span><i class="fa fa-facebook"></i></span></a>
-                                </li>
-                                <li>
-                                    <a href="# " target="_blank"><span><i class="fa fa-twitter"></i></span></a>
-                                </li>
-                                <li>
-                                    <a href="# " target="_blank"><span><i class="fa fa-pinterest-p"></i></span></a>
-                                </li>
-                                <li>
-                                    <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-4 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
-                            <h3 class="widget-title">IT Services</h3>
-                            <ul class="site-map">
-                                <li>Software Development</a></li>
-                                <li>Web Development</a></li>
-                                <li>Analytic Solutions</a></li>
-                                <li>Product Design</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-4 col-md-12 col-sm-12 md-mb-30">
-                            <h3 class="widget-title">Contact Info</h3>
-                            <ul class="address-widget">
-                                <!--<li>
-                                    <i class="flaticon-location"></i>
-                                    <div class="desc">374 FA Tower, William S Blvd 2721, IL, USA</div>
-                                </li>-->
-                                <li>
-                                    <i class="flaticon-call"></i>
-                                    <div class="desc">
-                                        <a href="tel:+919881124454">+91-9881124454</a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="flaticon-email"></i>
-                                    <div class="desc">
-                                        <a href="mailto:meissasoftwaresolutions@gmail.com">meissasoftwaresolutions@gmail.com</a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="flaticon-clock-1"></i>
-                                    <div class="desc">
-                                        Opening Hours: 10:00 - 18:00
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <div class="container">
-                    <div class="row y-middle">
-                        <div class="col-lg-6 text-right md-mb-10 order-last">
-                            <ul class="copy-right-menu">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Shop</a></li>
-                                <li><a href="#">FAQs</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="copyright">
-                                <p>&copy; 2022 All Rights Reserved. Developed By RSTheme</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+        @include('footer')
         <!-- Footer End -->
 
         <!-- start scrollUp  -->
-        <div id="scrollUp" class="orange-color">
-            <i class="fa fa-angle-up"></i>
-        </div>
+        @include('pageScroll')
         <!-- End scrollUp  -->
 
         <!-- Search Modal Start -->
-        <div class="modal fade search-modal" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
-            <button type="button" class="close" data-bs-dismiss="modal">
-                <span class="flaticon-cross"></span>
-            </button>
-            <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                    <div class="search-block clearfix">
-                        <form>
-                            <div class="form-group">
-                                <input class="form-control" placeholder="Search Here..." type="text">
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
+        @include('searchModal')
         <!-- Search Modal End -->
 
-        <!-- modernizr js -->
-        <script src="{{ asset('js/modernizr-2.8.3.min.js') }}"></script>
-        <!-- jquery latest version -->
-        <script src="{{ asset('js/jquery.min.js') }}"></script>
-        <!-- Bootstrap v4.4.1 js -->
-        <script src="{{ asset('js/bootstrap.min.js') }}"></script>
-        <!-- Menu js -->
-        <script src="{{ asset('/js/rsmenu-main.js') }}"></script>
-        <!-- op nav js -->
-        <script src="{{ asset('/js/jquery.nav.js') }}"></script>
-        <!-- owl.carousel js -->
-        <script src="{{ asset('/js/owl.carousel.min.js') }}"></script>
-        <!-- wow js -->
-        <script src="{{ asset('/js/wow.min.js') }}"></script>
-        <!-- Skill bar js -->
-        <script src="{{ asset('/js/skill.bars.jquery.js') }}"></script>
-        <script src="{{ asset('/js/jquery.counterup.min.js') }}"></script>
-        <!-- counter top js -->
-        <script src="{{ asset('/js/waypoints.min.js') }}"></script>
-        <!-- swiper js -->
-        <script src="{{ asset('/js/swiper.min.js') }}"></script>
-        <!-- particles js -->
-        <script src="{{ asset('/js/particles.min.js') }}"></script>
-        <!-- magnific popup js -->
-        <script src="{{ asset('/js/jquery.magnific-popup.min.js') }}"></script>
-        <!-- plugins js -->
-        <script src="{{ asset('/js/plugins.js') }}"></script>
-        <!-- pointer js -->
-        <script src="{{ asset('/js/pointer.js') }}"></script>
-        <!-- contact form js -->
-        <script src="{{ asset('/js/contact.form.js') }}"></script>
-        <!-- appointment form js -->
-        <script src="{{ asset('/js/appointment.form.js') }}"></script>
-        <!-- main js -->
-        <script src="{{ asset('/js/main.js') }}"></script>
+        <!--Scripts Start-->
+        @include('scripts')
+        <!--Scripts End-->
+
     </body>
 </html>

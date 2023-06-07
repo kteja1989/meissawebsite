@@ -60,7 +60,7 @@
                                                     <input class="from-control" type="text" id="appointment_phone" name="appointment_phone" placeholder="Phone Number" required="">
                                                 </div>
                                                 <div class="col-lg-12 mb-25">
-                                                    <input class="from-control" type="text" id="appointment_website" name="appointment_website" placeholder="Your Website" required="">
+                                                    <input class="from-control" type="text" id="appointment_website" name="appointment_website" placeholder="Your Orgnaisation" required="">
                                                 </div>
                                             </div>
                                             <div class="form-group mb-0">
@@ -375,6 +375,17 @@
                                 <span class="category"><a href="/meissamars">Meissa Management Automated Research Systems</a></span>
                             </div>
                         </div>
+
+                        <div class="project-item">
+                            <div class="project-img">
+                                <a href="case-studies-single.html"><img src="{{ asset('images/meissamarsdashboard.png') }}" alt="images"></a>
+                            </div>
+                            <div class="project-content">
+                                <h3 class="title">Meissa <a href="#" class="badge badge-primary"></a> HMST</h3>
+                                <span class="category"><a href="/meissahmst">Meissa Herd Management Systems Tracker</a></span>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>

@@ -24,7 +24,7 @@
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs img2">
                 <div class="breadcrumbs-inner text-center">
-                    <h1 class="page-title">Meissa Facility Management</h1>
+                    <h1 class="page-title">Meissa HMST</h1>
                 </div>
             </div>
             <!-- Breadcrumbs End -->
@@ -35,25 +35,25 @@
                     <div class="row">
                         <div class="col-lg-8 md-mb-50">
                             <div class="services-img">
-                                <img src="{{ asset('images/IMG20211227133559new.jpg') }}" alt="">
+                                <img src="{{ asset('images/meissaarm2.ng') }}" alt="">
                             </div>
 
-                            <h2 class="mt-34">Facility Management</h2>
-                            <p>Easy to understand, intuitive graphical user interface for both the facility manager and experimenters to record and retrive every minute detail of every cage in the facility including costing.</p>
+                            <h2 class="mt-34">Herd Management Systems Tracker</h2>
+                            <p></p>
+                            <p></p>
                             <div class="services-img">
-                                <img src="{{ asset('images/meissafacility.png') }}" alt="">
+                                <img src="{{ asset('images/meissarm.png') }}" alt="">
                             </div>
-                            </br>
-                            <p>Its location, assigned project, corresponding costs for which project or experimentation it is being used, type of strain. The facility manager can also update the comments for the cage on daily basis which notifies the experimenter.</p>
-                            <div class="services-img">
-                                <img src="{{ asset('images/meissafacility2.png') }}" alt="">
-                            </div>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
                         </div>
                         <div class="col-lg-4 pl-32 md-pl-15">
                             <div class="ps-informations">
-                            <h3 class="info-title">Project Info</h3>
+                            <h3 class="info-title">Product Info</h3>
                             <ul>
-                                <li><span>Category:</span>Bio-technology</li>
+                                <li><span>Category:</span>IT Technology</li>
                                 <li><span>Technologies Used:</span>Laravel, Php, MySQL</li>
                                 <li><span>Completed Date:  </span>2019</li>
                                 <li><span>Purchase: </span>Subbscription, license</li>

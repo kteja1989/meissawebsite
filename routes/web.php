@@ -41,6 +41,10 @@ Route::get('/meissamars', function () {
     return view('meissamars');
 });
 
+Route::get('/meissahmst', function () {
+    return view('meissahmst');
+});
+
 Route::get('/meissaenterprise', function () {
     return view('meissaenterprise');
 });

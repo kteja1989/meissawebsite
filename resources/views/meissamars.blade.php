@@ -5,9 +5,6 @@
     </head>
     <body class="defult-home">
 
-        <!--Preloader area start here-->
-        <!--Preloader area End here-->
-
 		<!-- Main content Start -->
         <div class="main-content">
             <!--Full width header Start-->

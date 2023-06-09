@@ -45,6 +45,26 @@ Route::get('/meissahmst', function () {
     return view('meissahmst');
 });
 
-Route::get('/meissaenterprise', function () {
-    return view('meissaenterprise');
+Route::get('/applicationdev', function () {
+    return view('applicationdev');
+});
+
+Route::get('/webdev', function () {
+    return view('webdev');
+});
+
+Route::get('/productdesign', function () {
+    return view('productdesign');
+});
+
+Route::get('/datamgmt', function () {
+    return view('datamgmt');
+});
+
+Route::get('/dataprivacy', function () {
+    return view('dataprivacy');
+});
+
+Route::get('/termscondi', function () {
+    return view('termscondi');
 });

@@ -413,14 +413,14 @@
                         <div class="col-lg-4 md-mb-50">
                             <div class="pricing-table">
                                 <div class="pricing-badge">
-                                    Silver
+                                    Self Hosting
                                 </div>
                                 <div class="pricing-icon">
                                     <img src="{{ asset('images/pricing/main-home/icons/1.png') }}" alt="">
                                 </div>
                                 <div class="pricing-table-price">
                                     <div class="pricing-table-bags">
-                                        <span class="pricing-currency"><i class="fa fa-inr"></i></span>
+                                        <span class="pricing-currency"></span>
                                         <span class="table-price-text">ASK</span>
                                         <span class="table-period">Monthly Package</span>
                                     </div>
@@ -439,14 +439,14 @@
                         <div class="col-lg-4 md-mb-50">
                             <div class="pricing-table primary-bg">
                                 <div class="pricing-badge white-color-bg">
-                                    Gold
+                                    Cloud Hosting
                                 </div>
                                 <div class="pricing-icon">
                                     <img src="{{ asset('images/pricing/main-home/icons/2.png') }}" alt="">
                                 </div>
                                 <div class="pricing-table-price">
                                     <div class="pricing-table-bags">
-                                        <span class="pricing-currency"><i class="fa fa-inr"></i></span>
+                                        <span class="pricing-currency"></span>
                                         <span class="table-price-text">ASK</span>
                                         <span class="table-period">Monthly Package</span>
                                     </div>
@@ -465,14 +465,14 @@
                         <div class="col-lg-4">
                             <div class="pricing-table">
                                 <div class="pricing-badge">
-                                    Platinum
+                                    Hybrid
                                 </div>
                                 <div class="pricing-icon">
                                     <img src="{{ asset('images/pricing/main-home/icons/3.png') }}" alt="">
                                 </div>
                                 <div class="pricing-table-price">
                                     <div class="pricing-table-bags">
-                                        <span class="pricing-currency"><i class="fa fa-inr"></i></span>
+                                        <span class="pricing-currency"></span>
                                         <span class="table-price-text">ASK</span>
                                         <span class="table-period">Monthly Package</span>
                                     </div>

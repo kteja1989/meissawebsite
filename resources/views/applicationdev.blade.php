@@ -40,14 +40,14 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 pr-40 md-pr-15 md-mb-50">
                             <div class="sec-title4">
-                                <span class="sub-text">Software Development</span>
+                                <span class="sub-text">Application Development</span>
                                 <h2 class="title">We Help to Implement Your Ideas into Automation</h2>
                                 <div class="heading-line"></div>
                                 <div class="desc desc-big">
-                                    We donec pulvinar magna id leoersi pellentesque impered dignissim rhoncus euismod euismod eros vitae best consulting & financial services theme .
+                                    We donec pulvinar magna id leoersi  .
                                 </div>
                                 <div class="desc">
-                                    Business ipsum dolor sit amet nsectetur cing elit. Suspe ndisse suscipit sagittis leo sit met entum is not estibulum dignity sim posuere cubilia durae. Leo sit met entum cubilia crae. At vero eos accusamus et iusto odio dignissimos provident nam libero tempore, cum soluta.
+                                    Business.
                                 </div>
                                 <div class="btn-part mt-45">
                                     <a class="readon learn-more" href="contact.html">Contact Us</a>

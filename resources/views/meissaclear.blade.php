@@ -78,6 +78,12 @@
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaclearsample.png') }}" alt="">
                             </div>
+                            </br>
+                            <h5>What is Multi - Tenancy ?</h5>
+                            <p>Please look at the picture below.</p>
+                            <div class="services-img">
+                                <img src="{{ asset('images/tenancydesc_new.png') }}" alt="">
+                            </div>
                         </div>
                         <div class="col-lg-4 pl-32 md-pl-15">
                             <div class="ps-informations">

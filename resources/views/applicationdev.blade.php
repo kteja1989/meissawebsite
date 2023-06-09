@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<head>
+<html lang="zxx">
+    <head>
         <meta charset="utf-8">
         <title>Meissa Software Solutions Private Limited</title>
         <meta name="description" content="">
@@ -106,7 +107,7 @@
                 </div>
             </div>
             <!--About Section End-->
-
+        </div> <!--Main Content-->
         <!-- Footer Start -->
         @include('footer')
         <!-- Footer End -->

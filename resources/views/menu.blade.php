@@ -17,8 +17,12 @@
                 </div>
                 <nav class="rs-menu">
                     <ul class="nav-menu">
-                        <li class="rs-mega-menu menu-item-has-children"> <a href="#">Home</a>
-                             <!-- //.mega-menu -->
+                        <li class="rs-mega-menu menu-item-has-children"><a href="#">Home</a>
+                            <!-- //.mega-menu -->
+                            <ul class="sub-menu">
+                                <li><a href="/dataprivacy">Data Privacy and Policy</a></li>
+                                <li><a href="/termscondi">Terms and Conditions</a> </li>
+                            </ul>
                         </li>
                         <li>
                             <a href="about.html">About</a>

@@ -68,3 +68,7 @@ Route::get('/dataprivacy', function () {
 Route::get('/termscondi', function () {
     return view('termscondi');
 });
+
+Route::get('/about', function () {
+    return view('about');
+});

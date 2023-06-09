@@ -26,6 +26,7 @@
                     <!-- Menu End -->
                 </header>
             <!--Full width header End-->
+            </div>
 
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs img2">

@@ -25,6 +25,7 @@
                     @include('menu')
                     <!-- Menu End -->
                 </header>
+            </div>
             <!--Full width header End-->
 
             <!-- Breadcrumbs Start -->
@@ -84,30 +85,12 @@
                                     Since the time we have started, working in IT services developing software applications for clients.
                                 </div>
                             </div>
-                            <!-- Skillbar Section Start -->
-                            <div class="rs-skillbar style1 modify1">
-                                <div class="cl-skill-bar">
-                                <!-- Start Skill Bar -->
-                                <span class="skillbar-title">Software Development</span>
-                                    <div class="skillbar" data-percent="92">
-                                            <p class="skillbar-bar"></p>
-                                            <span class="skill-bar-percent"></span>
-                                    </div>
-                                <!-- Start Skill Bar -->
-                                <span class="skillbar-title">Web Development</span>
-                                    <div class="skillbar" data-percent="80">
-                                            <p class="skillbar-bar"></p>
-                                            <span class="skill-bar-percent"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        <!-- Skillbar Section End -->
                         </div>
                     </div>
                 </div>
-            </div>
-            <!--About Section End-->
+            </div><!--About Section End-->
         </div> <!--Main Content-->
+        
         <!-- Footer Start -->
         @include('footer')
         <!-- Footer End -->

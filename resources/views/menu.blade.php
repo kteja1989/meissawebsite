@@ -17,7 +17,7 @@
                 </div>
                 <nav class="rs-menu">
                     <ul class="nav-menu">
-                        <li class="rs-mega-menu menu-item-has-children"><a href="#">Home</a>
+                        <li class="rs-mega-menu menu-item-has-children"><a href="/">Home</a>
                             <!-- //.mega-menu -->
                             <ul class="sub-menu">
                                 <li><a href="/dataprivacy">Data Privacy and Policy</a></li>
@@ -25,7 +25,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="about.html">About</a>
+                            <a href="/about">About</a>
                         </li>
                         <li class="menu-item-has-children">
                             <a href="#">Services</a>

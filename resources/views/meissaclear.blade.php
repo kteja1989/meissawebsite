@@ -25,6 +25,7 @@
                     @include('menu')
                     <!-- Menu End -->
                 </header>
+            </div>
             <!--Full width header End-->
 
             <!-- Breadcrumbs Start -->

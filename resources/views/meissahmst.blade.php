@@ -31,7 +31,10 @@
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs img2">
                 <div class="breadcrumbs-inner text-center">
-                    <h1 class="page-title">Meissa HMST</h1>
+                    <h1 class="page-title">Meissa - H M S T</h1>
+                    <ul>
+                        <li>Herd Management Systems Tracker</li>
+                    </ul>
                 </div>
             </div>
             <!-- Breadcrumbs End -->
@@ -52,40 +55,59 @@
                             <p>This module is designed to help animal facilities that maintain large animals like  rabbits, goats, horses etc., Right from acquisition to production, all tasks are recorded.</p>
 
                             <h2 class="mt-34">Features</h2>
-                            <p>Fully Informative graphical dashboard right after login.</p>
-                            <p>Purchase and acquisiation of new animals.</p>
-                            <p>Live animal profiles.</p>
-                            <p>Livestock Information.</p>
-                            <p>Unique ID system of tracking.</p>
-                            <p>Machine Readable inputs(Barcode, RFID, IoT integrations) for weight, temperature and other health.</p>
-                            <p>Automatic quarantine and exit procedures.</p>
-                            <p>Exhaustive Health tracking of animals (Currently 24 in number).</p>
-                            <p>Graphical representation of all health data at individual animals and as collective group.</p>
-                            <p>Monitoring of Sick Animals and treatment info.</p>
-                            <p>Online Recording of Health and Action Taken Reports.</p>
-                            <p>Online Movement of animals from production to treatment bay and back.</p>
-                            <p>Exhaustive SOP based quality monitoring systems.</p>
-                            <p>Immunizations.</p>
-                            <p>Serum Collection.</p>
-                            <p>Email notifications email .</p>
-                            <p>Clean Exit procedures.</p>
-                            <p>Inventory Management.</p>
-                            <p>Sample Management.</p>
-                            <p>Feed Management</p>
-                            <p>Online documentation.</p>
-                            <p>Complete Facility Monitoring like daily temperature, humidity, cleaning and others as desired.</p>
-                            <p>API integration of host equipment on extra charge.</p>
-                            <p>Role based assignment for task performance.</p>
-                            <p>Online scheduling and conducting of IAEC meetings</p>
-                            <p>Exhaustive error and exception tracking.</p>
-                            <p>Comprehensive audit trails and malicious activity monitoring.</p>
+                            <p>1. Fully Informative graphical dashboard right after login.</p>
+                            <p>2. Purchase and acquisiation of new animals.</p>
+                            <p>3. Live animal profiles.</p>
+                            <p>4. Livestock Information.</p>
+                            <p>5. Unique ID system of tracking.</p>
+                            <p>6. Machine Readable inputs(Barcode, RFID, IoT integrations) for weight, temperature and other health.</p>
+                            <p>7. Automatic quarantine and exit procedures.</p>
+                            <p>8. Exhaustive Health tracking of animals (Currently 18 parameters).</p>
+                            <p>9. Graphical representation of all health data at individual animal level and as collective group.</p>
+                            <p>10. Evaluation of Health Metrics.</p>
+                            <p>11. Monitoring of Sick Animals and treatment info.</p>
+                            <p>12. Online Recording of Health and Action Taken Reports.</p>
+                            <p>13. Online Movement of animals from production to treatment bay and back.</p>
+                            <p>14. Exhaustive SOP based quality monitoring systems.</p>
+                            <p>15. Immunizations.</p>
+                            <p>16. Serum Collection.</p>
+                            <p>17. Email notifications email .</p>
+                            <p>18. Clean Exit procedures.</p>
+                            <p>19. Inventory Management.</p>
+                            <p>20. Sample Management.</p>
+                            <p>21. Feed Management.</p>
+                            <p>22. Online documentation.</p>
+                            <p>23. Complete Facility Monitoring like daily temperature, humidity, cleaning and others as desired.</p>
+                            <p>24. API integration of host equipment on extra charge.</p>
+                            <p>25. Role and Permission based assignment for task performance.</p>
+                            <p>26. Online scheduling and conducting of IAEC meetings</p>
+                            <p>27. Artificial Intelligence & Machine Learing based routing, work-flows, suggestions, problem identification and resolution (coming up soon)</p>
+
+                            <h2 class="mt-34">Security and Encryption</h2>
+                            <p>1. End-to-end secure encrypted communications.</p>
+                            <p>2. Data encryption if desired at additional charge.</p>
+                            <p>3. Cross Site Scripting Protection.</p>
+                            <p>4. Cross Site Request Forgery attack protection.</p>
+                            <p>5. SQL injection protection.</p>
+                            <p>6. Cookie protection and session hijack protection.</p>
+                            <p>7. Most reliable authentication system.</p>
+                            <p>8. Malicious IP blocking.</p>
+                            <p>9. Most secure routing system, all routes go through stringent validations.</p>
+                            <p>10. Exhaustive error and exception tracking.</p>
+                            <p>11. Comprehensive audit trails and malicious activity monitoring.</p>
+
+                            <h2 class="mt-34">Data Back-up and Restoration.</h2>
+                            <p>1. Daily 4 back-ups and addtional independent storage at extra.</p>
+                            <P>2. RAID - mirror server at additional charge.</P>
+                            <p>3. Under 17 min for full restoration from back-ups.</p>
                         </div>
+
                         <div class="col-lg-4 pl-32 md-pl-15">
                             <div class="ps-informations">
                             <h3 class="info-title">Product Info</h3>
                             <ul>
                                 <li><span>Category:</span>IT Technology</li>
-                                <li><span>Technologies Used:</span>Laravel, Php, MySQL</li>
+                                <li><span>Technologies Used:</span>Laravel livewire, Php, MySQL</li>
                                 <li><span>Completed Date:  </span>2023</li>
                                 <li><span>Purchase: </span>Subscription, license</li>
                                 <li><span>Price: </span>Contact Us</li>

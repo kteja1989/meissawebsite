@@ -71,7 +71,7 @@
                             <p>14. Exhaustive SOP based quality monitoring systems.</p>
                             <p>15. Immunizations.</p>
                             <p>16. Serum Collection.</p>
-                            <p>17. Email notifications email .</p>
+                            <p>17. Email based notifications and remainders .</p>
                             <p>18. Clean Exit procedures.</p>
                             <p>19. Inventory Management.</p>
                             <p>20. Sample Management.</p>

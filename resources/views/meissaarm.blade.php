@@ -32,6 +32,9 @@
             <div class="rs-breadcrumbs img2">
                 <div class="breadcrumbs-inner text-center">
                     <h1 class="page-title">Meissa ARM</h1>
+                    <ul>
+                        <li>Accelerated Recruitment Management</li>
+                    </ul>
                 </div>
             </div>
             <!-- Breadcrumbs End -->
@@ -52,9 +55,11 @@
                                 <img src="{{ asset('images/meissaarm.png') }}" alt="">
                             </div>
                             <p>1. Intituative Dashbpards.</p>
-                            <p>2. Role based access.</p>
-                            <p>3. Online Zoom based interviews (Upcoming).</p>
+                            <p>2. Role based access for screening.</p>
+                            <p>3. Call Letter Dispatch and Download.</p>
                             <p>4. All in single login.</p>
+                            <p>5. Online Zoom based interviews (Upcoming).</p>
+
                         </div>
                         <div class="col-lg-4 pl-32 md-pl-15">
                             <div class="ps-informations">
@@ -62,7 +67,7 @@
                             <ul>
                                 <li><span>Category:</span>IT Technology</li>
                                 <li><span>Technologies Used:</span>Laravel, Php, MySQL</li>
-                                <li><span>Completed Date:  </span>2019</li>
+                                <li><span>Completed Date:  </span>2023</li>
                                 <li><span>Purchase: </span>Subbscription, license</li>
                                 <li><span>Price: </span>Contact Us</li>
                             </ul>

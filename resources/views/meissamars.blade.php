@@ -31,7 +31,10 @@
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs img2">
                 <div class="breadcrumbs-inner text-center">
-                    <h1 class="page-title">Meissa Management of Automated Research Systems </h1>
+                    <h1 class="page-title">Meissa - M A R S </h1>
+                    <ul>
+                        <li>Management of Automated Research Systems</li>
+                    </ul>
                 </div>
             </div>
             <!-- Breadcrumbs End -->
@@ -45,11 +48,12 @@
                                 <img src="{{ asset('images/meissamarsdashboard.png') }}" alt="">
                             </div>
                             <h2 class="mt-34">Management of Automated Research Systems</h2>
-                            <p>A highly intuitive, easy-to-use interface that manages the entire experimental and laboratory operations of IAEC Projects, Multi-Species Breeding, Experimentation, facility and experimental infrastructure maintenance tracking under a single interface. This is an enterprise version which combines all the modules of Meissa CLEAR, Meissa Colony, Meissa Facility. </p>
+                            <p>This is an enterprise version which combines all the modules of Meissa CLEAR, Meissa Colony, Meissa Facility, Meissa Breeding. All in a single login, manages a complete enterprise.</p>
+                            <p>A highly intuitive, easy-to-use interface that manages research projects, entire experimental and laboratory operations of IAEC Projects, Multi-Species Breeding, Experimentation, facility and experimental infrastructure, maintenance tracking under a single interface. </p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissamarsproject.png') }}" alt="">
                             </div>
-                            <p>Comprehensive recording of every aspect in projects including the tracking of number of issues.</p>
+                            <p>Comprehensive recording of every aspect in projects including usage tracking.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissamarsstrainstatus.png') }}" alt="">
                             </div>

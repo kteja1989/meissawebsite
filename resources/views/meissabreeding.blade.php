@@ -32,6 +32,9 @@
             <div class="rs-breadcrumbs img2">
                 <div class="breadcrumbs-inner text-center">
                     <h1 class="page-title">Meissa Multi-Species Breeding</h1>
+                    <ul>
+                        <li>The only multi-species breeding software</li>
+                    </ul>
                 </div>
             </div>
             <!-- Breadcrumbs End -->
@@ -47,7 +50,7 @@
 
                             <h2 class="mt-34">Multi-Species Breeding</h2>
                             <p>Developed based on most appreciated protocols of JAX Laboratories, USA.</p>
-                            <p>Tracking of mice, barcoding, tracking of mating, litter management, mangement of schedules, management of facility at individual cage level information and costing of cages per diem basis. Management of infrasture, inventory, System tracking SOPs.</p>
+                            <p>Tracking of mice, barcoding or RFID, tracking of mating, litter management, mangement of schedules, management of facility at individual cage level information and costing of cages on per-diem basis. Management of infrasture, inventory, System tracking SOPs.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissabreeding3.png') }}" alt="">
                             </div>

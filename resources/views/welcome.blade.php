@@ -68,6 +68,9 @@
                                                 <div class="col-lg-12 mb-25">
                                                     <input class="from-control" type="text" id="appointment_website" name="appointment_website" placeholder="Your Orgnaisation" required="">
                                                 </div>
+                                                <div class="col-lg-12 mb-25">
+                                                    <input class="from-control" type="text" id="appointment_website" name="appointment_website" placeholder="Your Message" required="">
+                                                </div>
                                             </div>
                                             <div class="form-group mb-0">
                                                 <input class="submit-btn" type="submit" value="Submit Now">
@@ -272,7 +275,7 @@
                                             <div class="number-title">
                                                 <h3 class="title"> Product Scope</h3>
                                             </div>
-                                            <p class="number-txt"> Listen to the overall aim of the prodcut and understand the needs, roles of people keeping the outcome in mind.</p>
+                                            <p class="number-txt"> Listen to the overall aim of the product, understand the needs, roles of people keeping the outcome in mind.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -285,7 +288,7 @@
                                             <div class="number-title">
                                                 <h3 class="title">Planning</h3>
                                             </div>
-                                            <p class="number-txt"> Laying the right foundation, keeping future scalability in mind. Create elaborate Software Requirement Specification Documents.</p>
+                                            <p class="number-txt"> Keeping future scalability in mind, laying the right foundation. Create elaborate Software Requirement Specification Document.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -298,7 +301,7 @@
                                             <div class="number-title">
                                                 <h3 class="title">Execute</h3>
                                             </div>
-                                            <p class="number-txt"> Select latest platforms technologies apt for the need. Scalability is the ultimate goal.</p>
+                                            <p class="number-txt"> Select best suitable platforms technologies for the need. Scalability is the ultimate goal.</p>
                                         </div>
                                     </div>
                                 </div>

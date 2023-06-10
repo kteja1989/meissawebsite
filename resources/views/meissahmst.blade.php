@@ -49,15 +49,36 @@
                             <div class="services-img">
                                 <img src="{{ asset('images/meissarm.png') }}" alt="">
                             </div>
-                            <p>This module is designed helps facilities that maintains lage animals like goats, rabbits, horses etc., Right from getting them to the facility till the end of the tasks.</p>
-                            <p>It records the tasks like quarantine period, immunization, serum collection, health records, reports uploading, Barcode recording of animals, Facility Inventory and many more. </p>
+                            <p>This module is designed to help animal facilities that maintain large animals like  rabbits, goats, horses etc., Right from acquisition to production, all tasks are recorded.</p>
 
                             <h2 class="mt-34">Features</h2>
-                            <p>Quarantine Period</p>
-                            <p>Health Records</p>
-                            <p>Immunization Records</p>
-                            <p>Serum Collection</p>
-                            <p>Reports Uploading</p>
+                            <p>Fully Informative graphical dashboard right after login.</p>
+                            <p>Purchase and acquisiation of new animals.</p>
+                            <p>Live animal profiles.</p>
+                            <p>Livestock Information.</p>
+                            <p>Unique ID system of tracking.</p>
+                            <p>Machine Readable inputs(Barcode, RFID, IoT integrations) for weight, temperature and other health.</p>
+                            <p>Automatic quarantine and exit procedures.</p>
+                            <p>Exhaustive Health tracking of animals (Currently 24 in number).</p>
+                            <p>Graphical representation of all health data at individual animals and as collective group.</p>
+                            <p>Monitoring of Sick Animals and treatment info.</p>
+                            <p>Online Recording of Health and Action Taken Reports.</p>
+                            <p>Online Movement of animals from production to treatment bay and back.</p>
+                            <p>Exhaustive SOP based quality monitoring systems.</p>
+                            <p>Immunizations.</p>
+                            <p>Serum Collection.</p>
+                            <p>Email notifications email .</p>
+                            <p>Clean Exit procedures.</p>
+                            <p>Inventory Management.</p>
+                            <p>Sample Management.</p>
+                            <p>Feed Management</p>
+                            <p>Online documentation.</p>
+                            <p>Complete Facility Monitoring like daily temperature, humidity, cleaning and others as desired.</p>
+                            <p>API integration of host equipment on extra charge.</p>
+                            <p>Role based assignment for task performance.</p>
+                            <p>Online scheduling and conducting of IAEC meetings</p>
+                            <p>Exhaustive error and exception tracking.</p>
+                            <p>Comprehensive audit trails and malicious activity monitoring.</p>
                         </div>
                         <div class="col-lg-4 pl-32 md-pl-15">
                             <div class="ps-informations">
@@ -65,8 +86,8 @@
                             <ul>
                                 <li><span>Category:</span>IT Technology</li>
                                 <li><span>Technologies Used:</span>Laravel, Php, MySQL</li>
-                                <li><span>Completed Date:  </span>2019</li>
-                                <li><span>Purchase: </span>Subbscription, license</li>
+                                <li><span>Completed Date:  </span>2023</li>
+                                <li><span>Purchase: </span>Subscription, license</li>
                                 <li><span>Price: </span>Contact Us</li>
                             </ul>
                             </div>

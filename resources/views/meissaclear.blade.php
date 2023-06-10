@@ -31,7 +31,10 @@
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs img2">
                 <div class="breadcrumbs-inner text-center">
-                    <h1 class="page-title">Meissa Chronological Laboratory Experimental Automated Record</h1>
+                    <h1 class="page-title">Meissa - C L E A R</h1>
+                    <ul>
+                        <li>Chronological Laboratory Experimental Automated Record</li>
+                    </ul>
                 </div>
             </div>
             <!-- Breadcrumbs End -->
@@ -42,59 +45,68 @@
                     <div class="row">
                         <div class="col-lg-8 md-mb-50">
                         <h2 class="mt-34">Chronological Laboratory Experimental Automated Record</h2>
-                            <h5>Dashboard</h5>
-                            <div class="services-img">
-                                <img src="{{ asset('images/meissaclear1.png') }}" alt="">
-                            </div>
-                            <p>Record every bit of your experiments right from beginning to end along with attachment of audio and video files, pictures.</p>
-                            </br>
-                            <h2 class="mt-34">Features</h2>
-                            <h5>Elab Notebook</h5>
-                            <p>Track every theme of research, experiments performed within it and record data, images, audio and video files etc., till the theme of investigation is closed.</p>
-                            <div class="services-img">
-                                <img src="{{ asset('images/meissaclear2.png') }}" alt="">
-                            </div>
-                            </br>
-                            <h5>Inventory</h5>
-                            <p>Comprehensive recording of searchable inventory, receipts and every reagent spent for the purpose, quantity and track replinishment status.</p>
-                            <div class="services-img">
-                                <img src="{{ asset('images/meissaclearinventory.png') }}" alt="">
-                            </div>
-                            </br>
-                            <h5>Logbook</h5>
-                            <p>Complete recording of logbook, for every equipment inside the lab.</p>
-                            <div class="services-img">
-                                <img src="{{ asset('images/meissaclearlogbook.png') }}" alt="">
-                            </div>
-                            </br>
-                            <h5>Reagent Development</h5>
-                            <p>Complete record of reagent preparation, track the consumption and its usage in specific experiments. Uniquely PNR coded reagents.</p>
-                            <div class="services-img">
-                                <img src="{{ asset('images/meissaclearreagent.png') }}" alt="">
-                            </div>
-                            </br>
-                            <h5>Sample Storage</h5>
-                            <p>Complete online record of storage of samples, with exact location details.</p>
-                            <div class="services-img">
-                                <img src="{{ asset('images/meissaclearsample.png') }}" alt="">
-                            </div>
-                            </br>
-                            <h5>What is Multi - Tenancy ?</h5>
-                            <p>Please look at the picture below.</p>
+
+                        <h5>Dashboard</h5>
+                        <div class="services-img">
+                            <img src="{{ asset('images/meissaclear1.png') }}" alt="">
+                        </div>
+                        <p>Record every bit of your experiments right from beginning to end along with attachment of audio and video files, pictures.</p>
+                        </br>
+
+                        <h2 class="mt-34">Features</h2>
+
+                        <h5>Elab Notebook</h5>
+                        <p>Track every theme of research, experiments performed within it and record data, images, audio and video files etc., till the theme of investigation is closed.</p>
+                        <div class="services-img">
+                            <img src="{{ asset('images/meissaclear2.png') }}" alt="">
+                        </div>
+                        </br>
+
+                        <h5>Inventory</h5>
+                        <p>Comprehensive recording of searchable inventory, receipts and every reagent spent for the purpose, quantity and track replinishment status.</p>
+                        <div class="services-img">
+                            <img src="{{ asset('images/meissaclearinventory.png') }}" alt="">
+                        </div>
+                        </br>
+
+                        <h5>Logbook</h5>
+                        <p>Complete recording of logbook, for every equipment inside the lab.</p>
+                        <div class="services-img">
+                            <img src="{{ asset('images/meissaclearlogbook.png') }}" alt="">
+                        </div>
+                        </br>
+
+                        <h5>Reagent Development</h5>
+                        <p>Complete record of reagent preparation, track the consumption and its usage in specific experiments. Uniquely PNR coded reagents.</p>
+                        <div class="services-img">
+                            <img src="{{ asset('images/meissaclearreagent.png') }}" alt="">
+                        </div>
+                        </br>
+
+                        <h5>Sample Storage</h5>
+                        <p>Complete online record of storage of samples, with exact location details.</p>
+                        <div class="services-img">
+                            <img src="{{ asset('images/meissaclearsample.png') }}" alt="">
+                        </div>
+                        </br>
+
+                        <h5>What is Multi - Tenancy ?</h5>
+                        <p>Please look at the picture below.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/tenancydesc_new.png') }}" alt="">
                             </div>
                         </div>
+
                         <div class="col-lg-4 pl-32 md-pl-15">
                             <div class="ps-informations">
-                            <h3 class="info-title">Project Info</h3>
-                            <ul>
-                                <li><span>Category:</span>Bio-technology</li>
-                                <li><span>Technologies Used:</span>Laravel, Livewire, php, MySQL</li>
-                                <li><span>Completed Date:  </span>2022</li>
-                                <li><span>Purchase: </span>Subscription, license</li>
-                                <li><span>Price: </span>Contact Us</li>
-                            </ul>
+                                <h3 class="info-title">Project Info</h3>
+                                <ul>
+                                    <li><span>Category:</span>Bio-technology</li>
+                                    <li><span>Technologies Used:</span>Laravel, Livewire, php, MySQL</li>
+                                    <li><span>Completed Date:  </span>2023</li>
+                                    <li><span>Purchase: </span>Subscription, license</li>
+                                    <li><span>Price: </span>Contact Us</li>
+                                </ul>
                             </div>
                         </div>
                     </div>

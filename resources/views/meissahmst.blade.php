@@ -52,14 +52,14 @@
                             <div class="services-img">
                                 <img src="{{ asset('images/meissarm.png') }}" alt="">
                             </div>
-                            <p>This module is designed to help animal facilities that maintain large animals like  rabbits, goats, horses etc., Right from acquisition to production, all tasks are recorded.</p>
+                            <p>This module is designed to help large animal facilities like rabbits, goats, horses etc., Right from acquisition to production, all tasks are recorded.</p>
 
                             <h2 class="mt-34">Features</h2>
                             <p>1. Fully Informative graphical dashboard right after login.</p>
                             <p>2. Purchase and acquisiation of new animals.</p>
                             <p>3. Live animal profiles.</p>
                             <p>4. Livestock Information.</p>
-                            <p>5. Unique ID system of tracking.</p>
+                            <p>5. Unique ID system of tracking including image impriniting of ID's.</p>
                             <p>6. Machine Readable inputs(Barcode, RFID, IoT integrations) for weight, temperature and other health.</p>
                             <p>7. Automatic quarantine and exit procedures.</p>
                             <p>8. Exhaustive Health tracking of animals (Currently 18 parameters).</p>
@@ -107,7 +107,7 @@
                             <h3 class="info-title">Product Info</h3>
                             <ul>
                                 <li><span>Category:</span>IT Technology</li>
-                                <li><span>Technologies Used:</span>Laravel livewire, Php, MySQL</li>
+                                <li><span>Technologies Used:</span>Laravel livewire, Php, MySQL, Python</li>
                                 <li><span>Completed Date:  </span>2023</li>
                                 <li><span>Purchase: </span>Subscription, license</li>
                                 <li><span>Price: </span>Contact Us</li>

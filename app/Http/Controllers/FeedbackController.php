@@ -31,7 +31,7 @@ class FeedbackController extends Controller
         {
             if( $input['botcheck'] == null)
             {
-                //////////////////////////////////             
+                //////////////////////////////////
                 //first save the contact in contacts table
                 $newFeedmsg = new Feedback();
                 $newFeedmsg->name = $input['name'];
@@ -40,19 +40,19 @@ class FeedbackController extends Controller
                 $newFeedmsg->organisation = $input['organisation'];
                 $newFeedmsg->status = "received";
                 $newFeedmsg->save();
-                
+
                 // everything set and ready to go.
                 try {
                     //now compose and send mail to sender with brochure and login credentials
                     Mail::to($input['email'])->queue(new FeedbackMailer($newFeedmsg));
-                    Log::channel('contactmail')->info('Thank you, feedback received', ['name' => $newFeedmsg->name, 'email' => $newFeedmsg->email ]);
+                    //Log::channel('contactmail')->info('Thank you, feedback received', ['name' => $newFeedmsg->name, 'email' => $newFeedmsg->email ]);
                     $msg = "Thank you, message sent successfully";
                 } catch (Exception $e) {
                     //echo 'Caught exception: '. $e->getMessage() ."\n";
-                    Log::channel('contactmail')->info('Feedback ack sending failed', ['exception' => $e->getMessage() ]);
+                    //Log::channel('contactmail')->info('Feedback ack sending failed', ['exception' => $e->getMessage() ]);
                     $msg = "Feedback ack could not be sent, try again";
-                }    
-                
+                }
+
                 $toMails = ["mvksastry@gmail.com", "tejak007@gmail.com"];
                 // everything set and ready to go.
                 foreach($toMails as $row)
@@ -67,12 +67,12 @@ class FeedbackController extends Controller
                     }
                 }
 
-                return back()->with('success', $msg); 
+                return back()->with('success', $msg);
             }
 
             $msg = "Must Delete Botcheck text, sorry try again";
-            return back()->with('failed', $msg); 
+            return back()->with('failed', $msg);
         }
-        
+
     }
 }

@@ -53,7 +53,7 @@ class FeedbackController extends Controller
                     $msg = "Feedback ack could not be sent, try again";
                 }
 
-                $toMails = ["mvksastry@gmail.com", "tejak007@gmail.com"];
+                $toMails = ["mvksastry@gmail.com", "tejak007@gmail.com", "support-meissa@meissa.co.in"];
                 // everything set and ready to go.
                 foreach($toMails as $row)
                 {

@@ -29,7 +29,7 @@ With best wishes
 </p>
 
 <p>
-<strong>Team CLEAR - Meissa </strong>
+<strong>Team - Meissa </strong>
 </p>
 
 </body>

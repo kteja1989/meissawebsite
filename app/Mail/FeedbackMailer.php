@@ -32,7 +32,7 @@ class FeedbackMailer extends Mailable
     public function build()
     {
         //return $this->view('view.name');
-        return $this->subject('CLEAR Mailer: New Mail from: '.$this->newContact->name )
+        return $this->subject('Mail: New Mail from: '.$this->newContact->name )
                             ->view('mails.newContactMail');
     }
 }

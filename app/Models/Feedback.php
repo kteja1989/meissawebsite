@@ -27,24 +27,24 @@ class Feedback extends Model
 	];
 
     // Customize log name
-    protected static $logName = 'Feedback';
+    //protected static $logName = 'Feedback';
 
     // Only defined attribute will store in log while any change
-    protected static $logAttributes = [
+    /*protected static $logAttributes = [
         'contact_id',
 		'name',
 		'email',
 		'message',
         'organisation',
 		'status'
-    ];
+    ];*/
     // Customize log description
-    public function getDescriptionForEvent(string $eventName): string
+    /*public function getDescriptionForEvent(string $eventName): string
     {
         return "This model has been {$eventName}";
     }
 
     public function getActivitylogOptions(): getActivitylogOptions{
         return LogOptions::defaults();
-    }
+    }*/
 }

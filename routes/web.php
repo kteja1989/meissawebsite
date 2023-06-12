@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+use App\Http\Controllers\FeedbackController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -72,3 +74,7 @@ Route::get('/termscondi', function () {
 Route::get('/about', function () {
     return view('about');
 });
+
+Route::post('feedback/message', [ FeedbackController::class, 'takeMessage'])
+        ->name('feedback.message');
+  

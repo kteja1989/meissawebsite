@@ -52,26 +52,61 @@
                                         <h2 class="title mb-15">Let us get back to you.</h2>
                                         <p class="desc">We here to help you</p>
                                     </div>
-                                    <div id="appointment-messages"></div>
-                                    <form id="appointment-form" method="post" action="appointment.php">
+                                    <div id="appointment-messages">
+                                    @if(Session::has('success'))
+                                        <div class="alert alert-success">
+                                            {{ Session::get('success') }}
+                                            @php Session::forget('success') @endphp
+                                        </div>
+                                    @endif
+                                    @if(Session::has('failed'))
+                                        <div class="alert alert-danger">
+                                            {{ Session::get('failed') }}
+                                            @php Session::forget('failed') @endphp
+                                        </div>
+                                    @endif
+                                    </div>
+                                    <form method="post" action="{{ route('feedback.message') }}">
+                                        @csrf
                                         <fieldset>
                                             <div class="row">
                                                 <div class="col-lg-12 mb-15">
-                                                    <input class="from-control" type="text" id="appointment_name" name="appointment_name" placeholder="Name" required="">
+                                                    <input class="from-control" type="text" id="name" value="{{ old('name') }}" name="name" placeholder="Name" required="">
+                                                    </br>
+                                                    @if($errors->has('name'))<span class="text-danger">{{ $errors->first('name') }}</span>@endif
                                                 </div>
+
                                                 <div class="col-lg-12 mb-15">
-                                                    <input class="from-control" type="text" id="appointment_email" name="appointment_email" placeholder="E-Mail" required="">
+                                                    <input class="from-control" type="text" id="email" value="{{ old('email') }}" name="email" placeholder="E-Mail" required="">
+                                                    </br>
+                                                    @if($errors->has('email'))<span class="text-danger">{{ $errors->first('email') }}</span>@endif
                                                 </div>
-                                                <div class="col-lg-12 mb-15">
-                                                    <input class="from-control" type="text" id="appointment_phone" name="appointment_phone" placeholder="Phone Number" required="">
-                                                </div>
+
                                                 <div class="col-lg-12 mb-25">
-                                                    <input class="from-control" type="text" id="appointment_website" name="appointment_website" placeholder="Your Orgnaisation" required="">
+                                                    <input class="from-control" type="text" id="organisation" value="{{ old('organisation') }}" name="organisation" placeholder="Your Orgnaisation" required="">
+                                                    </br>
+                                                    @if($errors->has('organisation'))<span class="text-danger">{{ $errors->first('organisation') }}</span>@endif
                                                 </div>
+
                                                 <div class="col-lg-12 mb-25">
-                                                    <input class="from-control" type="text" id="appointment_website" name="appointment_website" placeholder="Your Message" required="">
+                                                    <input class="from-control" type="text" id="message" value="{{ old('message') }}" name="message" placeholder="Your Message" required="">
+                                                    </br>
+                                                    @if($errors->has('message'))<span class="text-danger">{{ $errors->first('message') }}</span>@endif
                                                 </div>
                                             </div>
+
+                                            <div class="form-group mb-0">
+                                                <input type="checkbox" class="form-check-input" name="nterms" id="nterms" value="1">
+                                                Agree to Meissa's 
+                                                <a href="privacy-policy.html">Privacy Policy</a> and <a href="terms-conditions.html">T & C</a>
+                                                </br>
+                                                @if($errors->has('nterms'))<span class="text-danger">{{ $errors->first('nterms') }}</span>@endif
+                                            </div>
+
+                                            <div class="form-group mb-3">
+                                                <input class="form-control" name="botcheck" id="botcheck" value="D  e  l  e  t  e    t  h  i  s    t  e  x  t" type="text"/>
+                                            </div>
+
                                             <div class="form-group mb-0">
                                                 <input class="submit-btn" type="submit" value="Submit Now">
                                             </div>

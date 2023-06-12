@@ -100,6 +100,12 @@ return [
             'level' => env('LOG_LEVEL', 'debug'),
         ],
 
+        'contactmail' => [
+            'driver' => 'daily',
+            'path' => storage_path('logs/contactmails.log'),
+            'level' => 'info',
+        ],
+
         'errorlog' => [
             'driver' => 'errorlog',
             'level' => env('LOG_LEVEL', 'debug'),

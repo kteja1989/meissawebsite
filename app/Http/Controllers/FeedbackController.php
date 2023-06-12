@@ -60,13 +60,12 @@ class FeedbackController extends Controller
                     try {
                         //compose mail to team meissa-best
                         Mail::to($row)->queue(new FeedbackMailer($newFeedmsg));
-                        Log::channel('contactmail')->info('New Feedback Received', ['name' => $newFeedmsg->name, 'email' => $newFeedmsg->email ]);
+                        //Log::channel('contactmail')->info('New Feedback Received', ['name' => $newFeedmsg->name, 'email' => $newFeedmsg->email ]);
                     } catch (Exception $e) {
                         //echo 'Caught exception: '. $e->getMessage() ."\n";
-                        Log::channel('contactmail')->info('New Feedback intimation mail sending failed', ['exception' => $e->getMessage() ]);
+                        //Log::channel('contactmail')->info('New Feedback intimation mail sending failed', ['exception' => $e->getMessage() ]);
                     }
                 }
-
                 return back()->with('success', $msg);
             }
 

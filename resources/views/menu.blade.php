@@ -17,18 +17,16 @@
                 </div>
                 <nav class="rs-menu">
                     <ul class="nav-menu">
-                        <li class="rs-mega-menu menu-item-has-children"><a href="/">Home</a>
+                        <li class="rs-mega-menu"><a href="/">Home</a>
                             <!-- //.mega-menu -->
+                        </li>
+                        <li class="rs-mega-menu menu-item-has-children"><a href="#">About</a>
                             <ul class="sub-menu">
                                 <li><a href="/dataprivacy">Data Privacy and Policy</a></li>
                                 <li><a href="/termscondi">Terms and Conditions</a> </li>
                             </ul>
                         </li>
-                        <li>
-                            <a href="/about">About</a>
-                        </li>
-                        <li class="menu-item-has-children">
-                            <a href="#">Services</a>
+                        <li class="rs-mega-menu menu-item-has-children"><a href="#">Services</a>
                             <ul class="sub-menu">
                                 <li><a href="/applicationdev">Application Development</a> </li>
                                 <li><a href="/webdev">Web Development</a> </li>

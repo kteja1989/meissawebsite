@@ -45,11 +45,11 @@ class FeedbackController extends Controller
                 try {
                     //now compose and send mail to sender with brochure and login credentials
                     Mail::to($input['email'])->queue(new FeedbackMailer($newFeedmsg));
-                    //Log::channel('contactmail')->info('Thank you, feedback received', ['name' => $newFeedmsg->name, 'email' => $newFeedmsg->email ]);
+                    Log::channel('contactmail')->info('Thank you, feedback received', ['name' => $newFeedmsg->name, 'email' => $newFeedmsg->email ]);
                     $msg = "Thank you, message sent successfully";
                 } catch (Exception $e) {
                     //echo 'Caught exception: '. $e->getMessage() ."\n";
-                    //Log::channel('contactmail')->info('Feedback ack sending failed', ['exception' => $e->getMessage() ]);
+                    Log::channel('contactmail')->info('Feedback ack sending failed', ['exception' => $e->getMessage() ]);
                     $msg = "Feedback ack could not be sent, try again";
                 }
 
@@ -60,10 +60,10 @@ class FeedbackController extends Controller
                     try {
                         //compose mail to team meissa-best
                         Mail::to($row)->queue(new FeedbackMailer($newFeedmsg));
-                        //Log::channel('contactmail')->info('New Feedback Received', ['name' => $newFeedmsg->name, 'email' => $newFeedmsg->email ]);
+                        Log::channel('contactmail')->info('New Feedback Received', ['name' => $newFeedmsg->name, 'email' => $newFeedmsg->email ]);
                     } catch (Exception $e) {
                         //echo 'Caught exception: '. $e->getMessage() ."\n";
-                        //Log::channel('contactmail')->info('New Feedback intimation mail sending failed', ['exception' => $e->getMessage() ]);
+                        Log::channel('contactmail')->info('New Feedback intimation mail sending failed', ['exception' => $e->getMessage() ]);
                     }
                 }
                 return back()->with('success', $msg);

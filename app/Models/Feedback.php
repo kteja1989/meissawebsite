@@ -5,14 +5,14 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-use Spatie\Activitylog\Traits\LogsActivity;
-use Spatie\Activitylog\LogOptions;
+//use Spatie\Activitylog\Traits\LogsActivity;
+//use Spatie\Activitylog\LogOptions;
 
 class Feedback extends Model
 {
     use HasFactory;
 
-    use LogsActivity;
+    //use LogsActivity;
 
     protected $table = 'feedbacks';
 
@@ -27,7 +27,7 @@ class Feedback extends Model
 	];
 
     // Customize log name
-    protected static $logName = 'Feedback';
+    /*protected static $logName = 'Feedback';
 
     // Only defined attribute will store in log while any change
     protected static $logAttributes = [
@@ -46,5 +46,5 @@ class Feedback extends Model
 
     public function getActivitylogOptions(): getActivitylogOptions{
         return LogOptions::defaults();
-    }
+    }*/
 }

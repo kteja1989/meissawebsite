@@ -44,7 +44,39 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 md-mb-50">
-                        <h2 class="mt-34">Chronological Laboratory Experimental Automated Record</h2>
+                        <h2 class="mt-34"><u>C</u>hronological <u>L</u>aboratory <u>E</u>xperimental <u>A</u>utomated <u>R</u>ecord</h2>
+                        <p>
+                            Let CLEAR be the first choice in keeping both integrity of scientific record and
+                            and ease of doing it in one go. Use CLEAR to manage your Research Groups activity including
+                            tracking of research or IAEC projects, research themes, experiments, chronological collation of data,
+                            safe keeping of raw data, laboratory inventory, archival of precious samples, reagents,
+                            equipments, usage, consumptions etc., at finger tips. Modern research demands not only speed but also efficiency.
+                            Only the best software can cut wastage and increase efficiency. This is it, vault to next
+                            level.
+                        </p>
+
+                        <ul class="listing-style">
+                            <li>
+                                <i class="fa fa-check-circle"></i>
+                                <span>A fully secure, complete, end-to-end encrypted solution removes the hassle of maintaining it.</span>
+                            </li>
+                            <li>
+                                <i class="fa fa-check-circle"></i>
+                                <span>Never to worry! Back-ups at will, also store in your personal external storage.</span>
+                            </li>
+                            <li>
+                                <i class="fa fa-check-circle"></i>
+                                <span>Role and Permission based access to projects and data for group members.</span>
+                            </li>
+                            <li>
+                                <i class="fa fa-check-circle"></i>
+                                <span>Devote more for ideas than for paper work.</span>
+                            </li>
+                            <li>
+                                <i class="fa fa-check-circle"></i>
+                                <span>A strong audit trail sniffs out malicious activity of users</span>
+                            </li>
+                        </ul>
 
                         <h5>Dashboard</h5>
                         <div class="services-img">
@@ -63,14 +95,15 @@
                         </br>
 
                         <h5>Inventory</h5>
-                        <p>Comprehensive recording of searchable inventory, receipts and every reagent spent for the purpose, quantity and track replinishment status.</p>
+                        <p>Every laboratory invariably has several thousands of precious chemicals/reagents/samples. This simple intutive inventory tracking marks every vial and records consumption on the fly and updates the master inventory. As you enter experimental information, it notes all usages in master consumption register. It is that simple.</p>
+                        <!--<p>Comprehensive recording of searchable inventory, receipts and every reagent spent for the purpose, quantity and track replinishment status.</p>-->
                         <div class="services-img">
                             <img src="{{ asset('images/meissaclearinventory.png') }}" alt="">
                         </div>
                         </br>
 
                         <h5>Logbook</h5>
-                        <p>Complete recording of logbook, for every equipment inside the lab.</p>
+                        <p>Complete recording of logbook, for every equipment inside the laboratory.</p>
                         <div class="services-img">
                             <img src="{{ asset('images/meissaclearlogbook.png') }}" alt="">
                         </div>
@@ -84,13 +117,14 @@
                         </br>
 
                         <h5>Sample Storage</h5>
-                        <p>Complete online record of storage of samples, with exact location details.</p>
+                        <p>Exactly like inventory management, track, acquisition, storage and usage of all precious samples. An investigator can know details of every sample stored in his laboratory, the container, shelf/canister, box and location.</p>
+                        <!--<p>Complete online record of storage of samples, with exact location details.</p>-->
                         <div class="services-img">
                             <img src="{{ asset('images/meissaclearsample.png') }}" alt="">
                         </div>
                         </br>
 
-                        <h5>What is Multi - Tenancy ?</h5>
+                        <h5>Why Multi - Tenancy ?</h5>
                         <p>Please look at the picture below.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/tenancydesc_new.png') }}" alt="">

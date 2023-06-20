@@ -26,14 +26,14 @@
                                 <li><a href="/termscondi">Terms and Conditions</a> </li>
                             </ul>
                         </li>
-                        <li class="rs-mega-menu menu-item-has-children"><a href="#">Services</a>
+                        <!--<li class="rs-mega-menu menu-item-has-children"><a href="#">Services</a>
                             <ul class="sub-menu">
                                 <li><a href="/applicationdev">Application Development</a> </li>
                                 <li><a href="/webdev">Web Development</a> </li>
                                 <li><a href="/productdesign">Product Design</a> </li>
                                 <li><a href="/datamgmt">Data Management</a> </li>
                             </ul>
-                        </li>
+                        </li>-->
                     </ul> <!-- //.nav-menu -->
                 </nav>
             </div> <!-- //.main-menu -->

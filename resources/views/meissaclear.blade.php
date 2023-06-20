@@ -51,8 +51,7 @@
                             tracking of research or IAEC projects, research themes, experiments, chronological collation of data,
                             safe keeping of raw data, laboratory inventory, archival of precious samples, reagents,
                             equipments, usage, consumptions etc., at finger tips. Modern research demands not only speed but also efficiency.
-                            Only the best software can cut wastage and increase efficiency. This is it, vault to next
-                            level.
+                            Only the best software can cut wastage and increase efficiency. This is it, vault to next level.
                         </p>
 
                         <ul class="listing-style">

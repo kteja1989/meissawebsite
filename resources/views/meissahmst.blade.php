@@ -106,8 +106,8 @@
                             <div class="ps-informations">
                             <h3 class="info-title">Product Info</h3>
                             <ul>
-                                <li><span>Category:</span>IT Technology</li>
-                                <li><span>Technologies Used:</span>Laravel livewire, Php, MySQL, Python</li>
+                                <li><span>Category:</span>Bio-technology</li>
+                                <li><span>Technologies Used:</span>Laravel livewire, php, MySQL, Python</li>
                                 <li><span>Completed Date:  </span>2023</li>
                                 <li><span>Purchase: </span>Subscription, license</li>
                                 <li><span>Price: </span>Contact Us</li>

@@ -40,9 +40,9 @@
                                 </div>
                                 <div class="services-desc">
                                     <p>As with any service providers, there are terms and conditions that apply to transactions at our
-                                    company. The main to remember is that by making a having a service from us, you agree to the terms
+                                    company. The main thing to remember is that by making a having a service from us, you agree to the terms
                                     along with our Privacy Policy.</p>
-                                    <p>If for any reason, You are not completely satsfied with any service that we provide, don't
+                                    <p>If for any reason, You are not completely satisfied with any service that we provide, don't
                                     hesitate to contact us and we will discuss any of the issues you are going through with our product
                                     or service.</p>
                                 </div>
@@ -71,7 +71,7 @@
                                 </div>
                             </div>
 
-                            <div class="services-content">
+                            <!--<div class="services-content">
                                 <div class="services-text">
                                     <h3 class="services-title"><a>Cookies</a></h3>
                                 </div>
@@ -85,7 +85,7 @@
                                     However, if you disbale Cookies, you may be able to access the functionality on our website correctly
                                     or at all. We can never place Personally identifiable Information in Cookies.</p>
                                 </div>
-                            </div>
+                            </div>-->
 
                             <div class="services-content">
                                 <div class="services-text">
@@ -150,11 +150,11 @@
                                     <h3 class="services-title"><a>Waiver</a></h3>
                                 </div>
                                 <div class="services-desc">
-                                    <p>Any waiver of the provisions of this Agreement or of a Party’s rights or needless under this
+                                    <p>Any waiver of the provisions of this Agreement or of a Party's rights or needless under this
                                     Agreement must be in writing to be effective. Failure, neglect, or delay by a Party to enforce the
                                     provisions of this Agreement or its rights or remedies at any time, will not be construed as a waiver
-                                    of such Party’s rights under this Agreement or will not in any way affect the validity of the whole or
-                                    any part of this Agreement or prejudice such Party’s right to take subsequent action. No exercise or enforcement
+                                    of such Party's rights under this Agreement or will not in any way affect the validity of the whole or
+                                    any part of this Agreement or prejudice such Party's right to take subsequent action. No exercise or enforcement
                                     by either Party of any right or remedy under this Agreement will preclude the enforcement by such Party of any
                                     other right or remedy under this Agreement or that such Party is entitled by law to enforce.</p>
                                 </div>
@@ -170,7 +170,7 @@
                                     that will preserve, as far as possible, the intentions expressed in this Agreement. If the Parties
                                     fail to agree on such amendment, such invalid term, condition or provision will be severed from the
                                     remaining terms, conditions and provisions, which will continue to be valid and enforceable to the
-                                    fullest extent permitted by law..</p>
+                                    fullest extent permitted by law.</p>
                                 </div>
                             </div>
 
@@ -221,7 +221,7 @@
                                     <p>All disputes, controversies, or claims arising out of or relating to this Agreement including
                                     any question regarding its validity, existence, or termination shall be referred to arbitration under
                                     the Arbitration and Conciliation Act, 1996. There shall be one arbitrator with one Party proposing the
-                                    appointment of an arbitrator with the other Party’s consent. In case the other Party does not consent to
+                                    appointment of an arbitrator with the other Party's consent. In case the other Party does not consent to
                                     the appointment of an arbitrator then both Parties shall appoint one arbitrator each and the two appointed
                                     arbitrators shall appoint a third arbitrator.</p>
                                 </div>

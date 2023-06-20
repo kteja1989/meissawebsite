@@ -50,7 +50,7 @@
 
                             <h2 class="mt-34">Multi-Species Breeding</h2>
                             <p>Developed based on most appreciated protocols of JAX Laboratories, USA.</p>
-                            <p>Tracking of mice, barcoding or RFID, tracking of mating, litter management, mangement of schedules, management of facility at individual cage level information and costing of cages on per-diem basis. Management of infrasture, inventory, System tracking SOPs.</p>
+                            <p>Tracking of mice, barcoding or RFID, tracking of mating, litter management, management of schedules, management of facility at individual cage level information and costing of cages on per-diem basis. Management of infrasture, inventory, System tracking SOPs.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissabreeding3.png') }}" alt="">
                             </div>
@@ -60,7 +60,7 @@
                             <h3 class="info-title">Project Info</h3>
                             <ul>
                                 <li><span>Category:</span>Bio-technology</li>
-                                <li><span>Technologies Used:</span>Laravel, Php, MySQL</li>
+                                <li><span>Technologies Used:</span>Laravel, php, MySQL</li>
                                 <li><span>Completed Date:  </span>2022</li>
                                 <li><span>Purchase: </span>Subbscription, license</li>
                                 <li><span>Price: </span>Contact Us</li>

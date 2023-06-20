@@ -49,8 +49,11 @@
                             </div>
 
                             <h2 class="mt-34">Fully Automated Recruitment Management</h2>
-                            <p>Fully automted recruitmemnt management consists of posting the advertisement to collection of online application, access based online-screening, dispatch of call letters through online to conducting interviews to closure of the advertisement. Statistics of reapplicants who applied earlier. Acccurate tracking of applications</p>
-                            <p>Previously applied condidates get highlighted for any post.</p>
+                            <p>Fully automated recruitment management consists of posting the advertisement to collection of online
+                            application, access based online-screening, dispatch of call letters through online to conducting interviews
+                            to closure of the advertisement. Statistics of reapplicants who applied earlier. Acccurate tracking of
+                            applications</p>
+                            <p>Previously applied candidates get highlighted for any post.</p>
                             <div class="services-img">
                                 <img src="{{ asset('images/meissaarm.png') }}" alt="">
                             </div>
@@ -66,9 +69,9 @@
                             <h3 class="info-title">Product Info</h3>
                             <ul>
                                 <li><span>Category:</span>IT Technology</li>
-                                <li><span>Technologies Used:</span>Laravel, Php, MySQL</li>
+                                <li><span>Technologies Used:</span>Laravel, php, MySQL</li>
                                 <li><span>Completed Date:  </span>2023</li>
-                                <li><span>Purchase: </span>Subbscription, license</li>
+                                <li><span>Purchase: </span>Subscription, license</li>
                                 <li><span>Price: </span>Contact Us</li>
                             </ul>
                             </div>

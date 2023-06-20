@@ -61,7 +61,7 @@
                             <h3 class="info-title">Project Info</h3>
                             <ul>
                                 <li><span>Category:</span>Bio-technology</li>
-                                <li><span>Technologies Used:</span>Laravel, Php, MySQL</li>
+                                <li><span>Technologies Used:</span>Laravel, php, MySQL</li>
                                 <li><span>Completed Date:  </span>2019</li>
                                 <li><span>Purchase: </span>Subbscription, license</li>
                                 <li><span>Price: </span>Contact Us</li>

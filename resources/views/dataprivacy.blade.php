@@ -40,8 +40,6 @@
                                 <p>4. Meissa does not collect personal, preferencial, location details from anybody. If you wish to know more about our policies, please write us </p>
                                 <address>
                                     Mail: <a href="mailto:support-meissa@meissa.co.in">Meissa Software Solutions Pvt.Ltd</a>.<br>
-                                    RH 24, Lake Paradise, Old Pune-Mumbai Highway, Talegaon Dabhade,</br>
-                                    Pune, Maharashtra 410507. </br>
                                 </address>
                             </p>
                         </div>

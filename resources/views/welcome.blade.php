@@ -97,7 +97,7 @@
 
                                             <div class="form-group mb-0">
                                                 <input type="checkbox" class="form-check-input" name="nterms" id="nterms" value="1">
-                                                Agree to Meissa's 
+                                                Agree to Meissa's
                                                 <a href="privacy-policy.html">Privacy Policy</a> and <a href="terms-conditions.html">T & C</a>
                                                 </br>
                                                 @if($errors->has('nterms'))<span class="text-danger">{{ $errors->first('nterms') }}</span>@endif
@@ -185,6 +185,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-4 col-md-6 mb-25">
                             <div class="services-item">
                                 <div class="services-icon">
@@ -194,7 +195,7 @@
                                 </div>
                                 <div class="services-content">
                                     <div class="services-text">
-                                        <h3 class="services-title"><a href="web-development.html">Web Application Development</a></h3>
+                                        <h3 class="services-title">Web Application Development</h3>
                                     </div>
                                     <div class="services-desc">
                                         <p>
@@ -204,6 +205,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-4 col-md-6 mb-25">
                             <div class="services-item">
                                 <div class="services-icon">
@@ -213,7 +215,7 @@
                                 </div>
                                 <div class="services-content">
                                     <div class="services-text">
-                                        <h3 class="services-title"><a href="case-studies-single.html">Analytic Solutions</a></h3>
+                                        <h3 class="services-title">Analytic Solutions</h3>
                                     </div>
                                     <div class="services-desc">
                                         <p>
@@ -223,6 +225,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-4 col-md-6 md-mb-25">
                             <div class="services-item">
                                 <div class="services-icon">
@@ -232,7 +235,7 @@
                                 </div>
                                 <div class="services-content">
                                     <div class="services-text">
-                                        <h3 class="services-title"><a href="cloud-and-devops.html">Clould & DevOps</a></h3>
+                                        <h3 class="services-title">Clould & DevOps</h3>
                                     </div>
                                     <div class="services-desc">
                                         <p>
@@ -242,6 +245,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-4 col-md-6 sm-mb-25">
                             <div class="services-item">
                                 <div class="services-icon">
@@ -251,7 +255,7 @@
                                 </div>
                                 <div class="services-content">
                                     <div class="services-text">
-                                        <h3 class="services-title"><a href="product-design.html">Product & Design</a></h3>
+                                        <h3 class="services-title">Product & Design</h3>
                                     </div>
                                     <div class="services-desc">
                                         <p>
@@ -261,6 +265,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="services-icon">
@@ -270,7 +275,7 @@
                                 </div>
                                 <div class="services-content">
                                     <div class="services-text">
-                                        <h3 class="services-title"><a href="data-center.html">Data Center</a></h3>
+                                        <h3 class="services-title">Data Center</h3>
                                     </div>
                                     <div class="services-desc">
                                         <p>

@@ -435,6 +435,16 @@
                             </div>
                         </div>
 
+                        <div class="project-item">
+                            <div class="project-img">
+                                <a href="case-studies-single.html"><img src="{{ asset('images/Screenshotmeissahart.png') }}" alt="images"></a>
+                            </div>
+                            <div class="project-content">
+                                <h3 class="title">Meissa <a href="#" class="badge badge-primary"></a> HART</h3>
+                                <span class="category"><a href="/meissahart">Meissa Human and Administrative Resource Tracker</a></span>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>

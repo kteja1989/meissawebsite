@@ -47,6 +47,10 @@ Route::get('/meissahmst', function () {
     return view('meissahmst');
 });
 
+Route::get('/meissahart', function () {
+    return view('meissahart');
+});
+
 Route::get('/applicationdev', function () {
     return view('applicationdev');
 });
@@ -77,4 +81,3 @@ Route::get('/about', function () {
 
 Route::post('feedback/message', [ FeedbackController::class, 'takeMessage'])
         ->name('feedback.message');
-  

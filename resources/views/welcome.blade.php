@@ -381,7 +381,7 @@
                             </div>
                             <div class="project-content">
                                 <h3 class="title">Meissa - ARM</h3>
-                                <span class="category"><a href="/meissaarm">Meissa - Automated Recruitment Management</a></span>
+                                <span class="category"><a href="#">Meissa - Automated Recruitment Management</a></span>
                             </div>
                         </div>
 
@@ -391,7 +391,7 @@
                             </div>
                             <div class="project-content">
                                 <h3 class="title">Meissa - Breeding</h3>
-                                <span class="category"><a href="/meissabreeding">Meissa - Multi-species Breeding</a></span>
+                                <span class="category"><a href="#">Meissa - Multi-species Breeding</a></span>
                             </div>
                         </div>
 
@@ -401,7 +401,7 @@
                             </div>
                             <div class="project-content">
                                 <h3 class="title">Meissa - Facility</h3>
-                                <span class="category"><a href="/meissafacility">Meissa Facility Management</a></span>
+                                <span class="category"><a href="#">Meissa Facility Management</a></span>
                             </div>
                         </div>
 
@@ -411,7 +411,7 @@
                             </div>
                             <div class="project-content">
                                 <h3 class="title">Meissa - CLEAR</h3>
-                                <span class="category"><a href="/meissaclear">Meissa - Chronological Laboratory Experimental Automated Record</a></span>
+                                <span class="category"><a href="#">Meissa - Chronological Laboratory Experimental Automated Record</a></span>
                             </div>
                         </div>
 
@@ -421,7 +421,7 @@
                             </div>
                             <div class="project-content">
                                 <h3 class="title">Meissa <a href="#" class="badge badge-primary"></a> MARS</h3>
-                                <span class="category"><a href="/meissamars">Meissa Management Automated Research Systems</a></span>
+                                <span class="category"><a href="#">Meissa Management Automated Research Systems</a></span>
                             </div>
                         </div>
 
@@ -431,7 +431,7 @@
                             </div>
                             <div class="project-content">
                                 <h3 class="title">Meissa <a href="#" class="badge badge-primary"></a> HMST</h3>
-                                <span class="category"><a href="/meissahmst">Meissa Herd Management Systems Tracker</a></span>
+                                <span class="category"><a href="#">Meissa Herd Management Systems Tracker</a></span>
                             </div>
                         </div>
 
@@ -441,10 +441,9 @@
                             </div>
                             <div class="project-content">
                                 <h3 class="title">Meissa <a href="#" class="badge badge-primary"></a> HART</h3>
-                                <span class="category"><a href="/meissahart">Meissa Human and Administrative Resource Tracker</a></span>
+                                <span class="category"><a href="#">Meissa Human and Administrative Resource Tracker</a></span>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
